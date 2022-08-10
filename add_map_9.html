@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"></script>
+    <style>
+      #map {position: absolute; top: 100px; right: 60px; bottom: 7px; left: 100px;}
+    </style>
+    <title>Database Pasut Badan Informasi Geospasial</title>
+
+    <!-- Load jQuery and PapaParse to read data from a CSV file coba-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/papaparse@5.3.2/papaparse.min.js"></script>
+    <!-- Ajax -->
+    <script src="stasiun_pasut.geojson"></script>
+    <scriptsrc="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <div class="d-flex flex-column flex-md-row align-items-center px-md-4 bg-white border-bottom shadow-sm" style="background: url('/assets/images/contour_1.jpg')">
+    <a href="https://big.go.id/"><img url('/assets/images/logo_big.png' style="height:45px;margin: 10px 20px"></a>
+    <div class="my-0 mr-md-auto font-weight-bold" style="text-align: center">
+    <a style="font-size: 16pt !important; color: #000 !important; text-decoration: none !important" >Sistem Informasi Pasang Surut Lengkap</a>
+    </div>
+    <div id="map">
+      <a href="https://www.maptiler.com" style="position:absolute;left:10px;bottom:10px;z-index:999;"><img src="https://api.maptiler.com/resources/logo.svg" alt="MapTiler logo"></a>
+    </div>
+    <script>
+      var map = L.map('map').setView([1, 124], 4);
+      //var southWest = L.latLng(-12.127712,91.826269),
+      //  northEast = L.latLng(7.282449,145.277393),
+      //  bounds = L.latLngBounds(southWest, northEast);
+      L.tileLayer('https://api.maptiler.com/maps/basic-v2/{z}/{x}/{y}.png?key=N6hEXl11xFSTv8THpYwr',{
+        tileSize: 512,
+        zoomOffset: -1,
+        minZoom: 1,
+        attribution: "\u003ca href=\"https://www.maptiler.com/copyright/\" target=\"_blank\"\u003e\u0026copy; MapTiler\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
+        crossOrigin: true
+      }).addTo(map);
+      //var marker = L.marker([-7.74140, 108.99650]).addTo(map);
+      //marker.bindPopup("CILACAP");
+      $.getJSON("data.geojson",function(data){
+                var PointIcon = L.icon({
+                    iconUrl: '/assets/images/bluemarker.png',
+                    iconSize: [30,30]
+                });
+                L.geoJson(data,{
+                    pointToLayer: function(feature,latlng){
+                        var marker = L.marker(latlng,{icon: PointIcon});
+                        marker.bindPopup(feature.properties.Title + '<br/>' + feature.properties.Nama_Stasiun);
+                        return marker;
+                    }
+                }).addTo(map);
+            });
+
+    </script>
+  </body>
+</html>
