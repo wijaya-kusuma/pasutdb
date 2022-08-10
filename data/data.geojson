@@ -1,0 +1,5979 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.9965,-7.7414 ]
+    },
+    "properties": {
+    "No":1,
+    "Title":"0001CCAP01",
+    "Nama_Stasiun":"Cilacap",
+    "PIC":"Irpan",
+    "Thn_Bangun":"1984",
+    "Desa":"Cilacap",
+    "Kecamatan":"Cilacap Selatan",
+    "Kab_Kota":"Cilacap",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946245,
+    "Nama_Operator":"Puput Tri Hantoro",
+    "No_Operator":"82152943546",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Cilacap",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.7406,-7.20006 ]
+    },
+    "properties": {
+    "No":2,
+    "Title":"0002SRBY01",
+    "Nama_Stasiun":"Surabaya",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2012",
+    "Desa":"Ujung",
+    "Kecamatan":"Semampir",
+    "Kab_Kota":"Surabaya",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946081,
+    "Nama_Operator":"Andre Tsani Stany Imron",
+    "No_Operator":"0813-3317-6237",
+    "Pengelola_Dermaga":"PT PAL Indonesia Surabaya",
+    "Status":"BIG + GFZ",
+    "Zonasi":"6445.CCI.026",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.1904,1.43892 ]
+    },
+    "properties": {
+    "No":3,
+    "Title":"0003BITG02",
+    "Nama_Stasiun":"Bitung",
+    "PIC":"Irpan",
+    "Thn_Bangun":"1986",
+    "Desa":"Biung Timur",
+    "Kecamatan":"Maesa",
+    "Kab_Kota":"Bitung",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946292,
+    "Nama_Operator":"Ridwan Canon",
+    "No_Operator":"81355062750",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Bitung",
+    "Status":"UHSLC",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.3755,-0.99608 ]
+    },
+    "properties": {
+    "No":4,
+    "Title":"0004PDNG01",
+    "Nama_Stasiun":"Padang",
+    "PIC":"Irpan",
+    "Thn_Bangun":"1986",
+    "Desa":"Teluk Bayur",
+    "Kecamatan":"Teluk Bayur",
+    "Kab_Kota":"Padang",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946282,
+    "Nama_Operator":"Dudung Hartono",
+    "No_Operator":"81363380295",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas II Teluk Bayur",
+    "Status":"UHSLC",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2099,-8.74649 ]
+    },
+    "properties": {
+    "No":5,
+    "Title":"0005BNOA02",
+    "Nama_Stasiun":"Benoa",
+    "PIC":"Irpan",
+    "Thn_Bangun":"1988",
+    "Desa":"Pedungan",
+    "Kecamatan":"Denpasar",
+    "Kab_Kota":"Denpasar Selatan",
+    "Provinsi":"Bali",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946269,
+    "Nama_Operator":"I Gusti Ngurah Agus Weresana",
+    "No_Operator":"85237437268",
+    "Pengelola_Dermaga":"PT Pelindo III Pelindo Energi Logistik Benoa",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.023",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.32,-5.46999 ]
+    },
+    "properties": {
+    "No":6,
+    "Title":"0006PANJ01",
+    "Nama_Stasiun":"Pel. Panjang",
+    "PIC":"Ghani",
+    "Thn_Bangun":"<2007",
+    "Desa":"Panjang Utara",
+    "Kecamatan":"Panjang",
+    "Kab_Kota":"Bandar Lampung",
+    "Provinsi":"Lampung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946161,
+    "Nama_Operator":"Teguh Widodo",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Pelabuhan Panjang",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.52468,5.5968 ]
+    },
+    "properties": {
+    "No":7,
+    "Title":"0007MHTI01",
+    "Nama_Stasiun":"Malahayati",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2012",
+    "Desa":"Lamreh",
+    "Kecamatan":"Krueng Raya",
+    "Kab_Kota":"Aceh Besar",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946125,
+    "Nama_Operator":"Andalia",
+    "No_Operator":"85288142424",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Malahayati",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.4179,-5.1117 ]
+    },
+    "properties": {
+    "No":8,
+    "Title":"0008UJPD02",
+    "Nama_Stasiun":"Makassar",
+    "PIC":"Ruli",
+    "Thn_Bangun":"1988",
+    "Desa":"Tamalaba",
+    "Kecamatan":"Ujung Tanah",
+    "Kab_Kota":"Makassar",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946205,
+    "Nama_Operator":"Caya",
+    "No_Operator":"81355477566",
+    "Pengelola_Dermaga":"TNI AL - Lantamal VI Makassar",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.8934,-2.66707 ]
+    },
+    "properties": {
+    "No":9,
+    "Title":"0009MMJU02",
+    "Nama_Stasiun":"Mamuju",
+    "PIC":"Herwin",
+    "Thn_Bangun":"1989",
+    "Desa":"Binanga",
+    "Kecamatan":"Mamuju",
+    "Kab_Kota":"Mamuju",
+    "Provinsi":"Sulawesi Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946208,
+    "Nama_Operator":"Ridwan",
+    "No_Operator":"85342962049",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Mamuju",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.78577,1.72848 ]
+    },
+    "properties": {
+    "No":10,
+    "Title":"0010SBLG01",
+    "Nama_Stasiun":"Sibolga",
+    "PIC":"Irpan",
+    "Thn_Bangun":"1989",
+    "Desa":"Pancuran Dewa",
+    "Kecamatan":"Sibolga Sambas",
+    "Kab_Kota":"Sibolga",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946221,
+    "Nama_Operator":"Pratara Vensisko Siahaan",
+    "No_Operator":"081389082958/082166532022",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Sibolga dan DITJEN HUBLA - KSOP Kelas IV Sibolga",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.011",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2098,-2.98349 ]
+    },
+    "properties": {
+    "No":11,
+    "Title":"0011PLPO02",
+    "Nama_Stasiun":"Palopo",
+    "PIC":"Heru",
+    "Thn_Bangun":"1989",
+    "Desa":"Pontap",
+    "Kecamatan":"Wara Timur",
+    "Kab_Kota":"Palopo",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946213,
+    "Nama_Operator":"Rusli, SE",
+    "No_Operator":"#N/A",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Palopo ",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.52724,-10.19534 ]
+    },
+    "properties": {
+    "No":12,
+    "Title":"0012KPNG02",
+    "Nama_Stasiun":"Kupang",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2011",
+    "Desa":"Alak",
+    "Kecamatan":"Kupang",
+    "Kab_Kota":"Kupang",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946242,
+    "Nama_Operator":"Yoni A . Saefatu",
+    "No_Operator":"81236668175",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Tenau Kupang",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.497,-0.53247 ]
+    },
+    "properties": {
+    "No":13,
+    "Title":"0013TNBL01",
+    "Nama_Stasiun":"Tanahbala",
+    "PIC":"Syarif",
+    "Thn_Bangun":"1998",
+    "Desa":"Eho",
+    "Kecamatan":"Hibala",
+    "Kab_Kota":"Nias Selatan",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Tidak ada",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946263,
+    "Nama_Operator":"Sijulman Duha,S.Pd",
+    "No_Operator":"82366860466",
+    "Pengelola_Dermaga":"Pemda Kab. Nias Selatan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8782,-6.09667 ]
+    },
+    "properties": {
+    "No":14,
+    "Title":"0014TPRK01",
+    "Nama_Stasiun":"Pondok Dayung",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Pondok Dayung",
+    "Kecamatan":"Tanjung Priok",
+    "Kab_Kota":"Jakarta Utara",
+    "Provinsi":"DKI Jakarta ",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (VEGA)",
+    "Tipe_Sensor_3":"Pressure (CBS)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946289,
+    "Nama_Operator":"Husein",
+    "No_Operator":"85880891279",
+    "Pengelola_Dermaga":"TNI AL - Koarmada I Pondok Dayung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.056,-1.17765 ]
+    },
+    "properties": {
+    "No":15,
+    "Title":"0015BIAK03",
+    "Nama_Stasiun":"Biak",
+    "PIC":"Heru",
+    "Thn_Bangun":"2007",
+    "Desa":"Wapnor",
+    "Kecamatan":"Biak Kota",
+    "Kab_Kota":"Biak",
+    "Provinsi":"Papua",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946241,
+    "Nama_Operator":"Charles A.Leonard",
+    "No_Operator":"85244248341",
+    "Pengelola_Dermaga":"TNI AL - Lanal Biak",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0723,-8.73087 ]
+    },
+    "properties": {
+    "No":16,
+    "Title":"0016LMBR02",
+    "Nama_Stasiun":"Lembar",
+    "PIC":"Irpan",
+    "Thn_Bangun":"<2007",
+    "Desa":"Lembar",
+    "Kecamatan":"Lembar",
+    "Kab_Kota":"Lombok Barat",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8111036433,
+    "Nama_Operator":"Nafi Zulkarnaen",
+    "No_Operator":"82333271419",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Lembar",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.024",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.7425,-5.62628 ]
+    },
+    "properties": {
+    "No":17,
+    "Title":"0017TUAL03",
+    "Nama_Stasiun":"Tual",
+    "PIC":"Arif",
+    "Thn_Bangun":"",
+    "Desa":"Masrum",
+    "Kecamatan":"P. Dullah Selatan",
+    "Kab_Kota":"Tual",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946287,
+    "Nama_Operator":"Enos Larbona",
+    "No_Operator":"82398813570",
+    "Pengelola_Dermaga":"TNI AL - Lantamal Tual",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.6487,-6.59154 ]
+    },
+    "properties": {
+    "No":18,
+    "Title":"0018JPRA01",
+    "Nama_Stasiun":"Jepara",
+    "PIC":"Ghani",
+    "Thn_Bangun":"<2007",
+    "Desa":"Bulu",
+    "Kecamatan":"Kota Jepara",
+    "Kab_Kota":"Jepara",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946089,
+    "Nama_Operator":"Kuslin",
+    "No_Operator":"85225032785",
+    "Pengelola_Dermaga":"UNDIP - Kampus Teluk Awur Jepara",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.2004,-3.63906 ]
+    },
+    "properties": {
+    "No":19,
+    "Title":"0019AMBN03",
+    "Nama_Stasiun":"Ambon",
+    "PIC":"Irpan",
+    "Thn_Bangun":"<2007",
+    "Desa":"Poka",
+    "Kecamatan":"Teluk Ambon",
+    "Kab_Kota":"Ambon",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946265,
+    "Nama_Operator":"Ahmad Soamole",
+    "No_Operator":"082239724463/081343254733",
+    "Pengelola_Dermaga":"LIPI - Pusat Penelitian Laut Dalam Ambon",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.022",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.806,-1.27217 ]
+    },
+    "properties": {
+    "No":20,
+    "Title":"0020BLPP02",
+    "Nama_Stasiun":"Balikpapan",
+    "PIC":"Any",
+    "Thn_Bangun":"1992",
+    "Desa":"Pelabuhan",
+    "Kecamatan":"Balikpapan kota",
+    "Kab_Kota":"Balikpapan",
+    "Provinsi":"Kalimantan Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946262,
+    "Nama_Operator":"Triyadi",
+    "No_Operator":"81649344420",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Balikpapan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.4698,1.0572 ]
+    },
+    "properties": {
+    "No":21,
+    "Title":"0021JAIL03",
+    "Nama_Stasiun":"Jailolo",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2007",
+    "Desa":"Gufasa",
+    "Kecamatan":"Halmahera Barat",
+    "Kab_Kota":"Jailolo",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946267,
+    "Nama_Operator":"Amir Saraha",
+    "No_Operator":"81340466742",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Jailolo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7275,-8.28685 ]
+    },
+    "properties": {
+    "No":22,
+    "Title":"0022PRGI01",
+    "Nama_Stasiun":"Prigi",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2007",
+    "Desa":"Tasikmadu",
+    "Kecamatan":"Watulimo",
+    "Kab_Kota":"Trenggalek",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946135,
+    "Nama_Operator":"Mashudi",
+    "No_Operator":"081234647759/08113312324",
+    "Pengelola_Dermaga":"KKP - PPN Prigi",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.642,-8.84617 ]
+    },
+    "properties": {
+    "No":23,
+    "Title":"0023ENDE02",
+    "Nama_Stasiun":"Ende",
+    "PIC":"Arif",
+    "Thn_Bangun":"",
+    "Desa":"Mbongawani",
+    "Kecamatan":"Ende Selatan",
+    "Kab_Kota":"Ende",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946247,
+    "Nama_Operator":"Faisal Bakir Toya",
+    "No_Operator":"81238965534",
+    "Pengelola_Dermaga":"PT Pelindo III Kawasan Ende",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"#N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.9682,1.17983 ]
+    },
+    "properties": {
+    "No":24,
+    "Title":"0024PMKT01",
+    "Nama_Stasiun":"Pemangkat",
+    "PIC":"Ruli",
+    "Thn_Bangun":"1994",
+    "Desa":"Pemangkat Kota",
+    "Kecamatan":"Pemangkat",
+    "Kab_Kota":"Sambas",
+    "Provinsi":"Kalimantan Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946216,
+    "Nama_Operator":"Agustono",
+    "No_Operator":"85245068817",
+    "Pengelola_Dermaga":"Lahan Pribadi Warga Pemangkat",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.71082,-2.54451 ]
+    },
+    "properties": {
+    "No":25,
+    "Title":"0025JYPR03",
+    "Nama_Stasiun":"Jayapura",
+    "PIC":"Ruli",
+    "Thn_Bangun":"1993",
+    "Desa":"Numbae",
+    "Kecamatan":"Jayapura Selatan",
+    "Kab_Kota":"Jayapura",
+    "Provinsi":"Papua",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946240,
+    "Nama_Operator":"Bambang Setiono",
+    "No_Operator":"81344300706",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas II Jayapura",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.24365,-0.87715 ]
+    },
+    "properties": {
+    "No":26,
+    "Title":"0026SRNG03",
+    "Nama_Stasiun":"Sorong",
+    "PIC":"Sofie",
+    "Thn_Bangun":"<2007",
+    "Desa":"Klaugi",
+    "Kecamatan":"Kampung Barat",
+    "Kab_Kota":"Sorong",
+    "Provinsi":"Papua Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946252,
+    "Nama_Operator":"Glen Mark Ferillian",
+    "No_Operator":"81344864885",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas I Sorong",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.5938,3.28155 ]
+    },
+    "properties": {
+    "No":27,
+    "Title":"0027TRKN02",
+    "Nama_Stasiun":"Tarakan",
+    "PIC":"Syarif",
+    "Thn_Bangun":"<2007",
+    "Desa":"Lingkas Ujung",
+    "Kecamatan":"Tarakan Barat",
+    "Kab_Kota":"Tarakan",
+    "Provinsi":"Kalimantan Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946185,
+    "Nama_Operator":"Jufri",
+    "No_Operator":"81346587518",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Tarakan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.1336,-2.08487 ]
+    },
+    "properties": {
+    "No":28,
+    "Title":"0028BNGK01",
+    "Nama_Stasiun":"Bangka",
+    "PIC":"Ruli",
+    "Thn_Bangun":"<2007",
+    "Desa":"Tanjung Kalian",
+    "Kecamatan":"Muntok",
+    "Kab_Kota":"Bangka Barat",
+    "Provinsi":"Bangka Belitung ",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946128,
+    "Nama_Operator":"Erwan",
+    "No_Operator":"81368790979",
+    "Pengelola_Dermaga":"PT ASDP Cabang Muntok dan DITJEN HUBLA - KSOP Kelas IV Muntok",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1376,1.07314 ]
+    },
+    "properties": {
+    "No":29,
+    "Title":"0029BATM01",
+    "Nama_Stasiun":"Kabil",
+    "PIC":"Ruli",
+    "Thn_Bangun":"1996",
+    "Desa":"Kabil",
+    "Kecamatan":"Ningsa",
+    "Kab_Kota":"Batam",
+    "Provinsi":"Kepulauan Riau",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946145,
+    "Nama_Operator":"Wahid Hasyim",
+    "No_Operator":"081277480048/081536081989",
+    "Pengelola_Dermaga":"Badan Pengusahaan Batam",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7993,-8.19048 ]
+    },
+    "properties": {
+    "No":30,
+    "Title":"0030SADG01",
+    "Nama_Stasiun":"Sadeng",
+    "PIC":"Heru",
+    "Thn_Bangun":"<2007",
+    "Desa":"Songbanyu",
+    "Kecamatan":"Girisubo",
+    "Kab_Kota":"Gunung Kidul",
+    "Provinsi":"DI Yogyakarta",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946165,
+    "Nama_Operator":"Dwi Priyanto",
+    "No_Operator":"81227501719",
+    "Pengelola_Dermaga":"KKP - PP Sadeng",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.5428,-6.98791 ]
+    },
+    "properties": {
+    "No":31,
+    "Title":"0031PRTU01",
+    "Nama_Stasiun":"Pelabuhan Ratu",
+    "PIC":"Ridho",
+    "Thn_Bangun":"1996",
+    "Desa":"Pelabuhan Ratu",
+    "Kecamatan":"Pelabuhan Ratu",
+    "Kab_Kota":"Sukabumi",
+    "Provinsi":"Jawa Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946136,
+    "Nama_Operator":"Pagiyar",
+    "No_Operator":"82112561188",
+    "Pengelola_Dermaga":"KKP - PPN Pelabuhan Ratu",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2818,-3.91944 ]
+    },
+    "properties": {
+    "No":32,
+    "Title":"0032PBAI01",
+    "Nama_Stasiun":"Pulau Baai",
+    "PIC":"Sofie",
+    "Thn_Bangun":"1997",
+    "Desa":"Teluk Sepang",
+    "Kecamatan":"Kampung Melayu",
+    "Kab_Kota":"Bengkulu",
+    "Provinsi":"Bengkulu",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946148,
+    "Nama_Operator":"Rasadi",
+    "No_Operator":"82112335933",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Bengkulu",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.943,-7.05756 ]
+    },
+    "properties": {
+    "No":33,
+    "Title":"0033KLGT01",
+    "Nama_Stasiun":"Kalianget",
+    "PIC":"Ridho",
+    "Thn_Bangun":"1997",
+    "Desa":"Kalianget",
+    "Kecamatan":"Kalianget",
+    "Kab_Kota":"Sumenep",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946171,
+    "Nama_Operator":"Muslimin",
+    "No_Operator":"81330108806",
+    "Pengelola_Dermaga":"DITJEN HUBDAT - UPT Pelabuhan Kalianget",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9275,1.124 ]
+    },
+    "properties": {
+    "No":34,
+    "Title":"0034SKPG01",
+    "Nama_Stasiun":"Sekupang",
+    "PIC":"Ruli",
+    "Thn_Bangun":"1997",
+    "Desa":"Sekupang",
+    "Kecamatan":"Sekupang",
+    "Kab_Kota":"Batam",
+    "Provinsi":"Kepulauan Riau",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946143,
+    "Nama_Operator":"Wahman",
+    "No_Operator":"81270113111",
+    "Pengelola_Dermaga":"DISHUB Kota Batam",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.03986,5.24323 ]
+    },
+    "properties": {
+    "No":35,
+    "Title":"0035LHMW01",
+    "Nama_Stasiun":"Lhokseumawe",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2007",
+    "Desa":"Krueng Geokueh",
+    "Kecamatan":"Lhokseumawe",
+    "Kab_Kota":"Muara satu",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946126,
+    "Nama_Operator":"Dony Kurniawan",
+    "No_Operator":"82360109737",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Lhokseumawe",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8572,-0.71167 ]
+    },
+    "properties": {
+    "No":36,
+    "Title":"0036PTLN02",
+    "Nama_Stasiun":"Pel. Pantoloan",
+    "PIC":"Any",
+    "Thn_Bangun":"<2007",
+    "Desa":"Pantoloan",
+    "Kecamatan":"Tawaeli",
+    "Kab_Kota":"Palu",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946195,
+    "Nama_Operator":"Alfinur Hasanuddin",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Pantoloan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9526,-6.01769 ]
+    },
+    "properties": {
+    "No":37,
+    "Title":"0037BNTN01",
+    "Nama_Stasiun":"Pel. Ciwandan",
+    "PIC":"Heru",
+    "Thn_Bangun":"<2007",
+    "Desa":"Kepuh",
+    "Kecamatan":"Ciwandan",
+    "Kab_Kota":"Cilegon",
+    "Provinsi":"Banten",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946139,
+    "Nama_Operator":"Zaenal Mutaqin",
+    "No_Operator":"81911186828",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Banten",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.18076,3.25333 ]
+    },
+    "properties": {
+    "No":38,
+    "Title":"0038TPTN01",
+    "Nama_Stasiun":"Tapaktuan",
+    "PIC":"Adnan",
+    "Thn_Bangun":"<2007",
+    "Desa":"Pasar",
+    "Kecamatan":"Tapaktuan",
+    "Kab_Kota":"Aceh Selatan",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946104,
+    "Nama_Operator":"Fizarullah",
+    "No_Operator":"82363613476",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Tapaktuan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7964,-0.95341 ]
+    },
+    "properties": {
+    "No":39,
+    "Title":"0039LWUK02",
+    "Nama_Stasiun":"Luwuk",
+    "PIC":"Sofie",
+    "Thn_Bangun":"<2007",
+    "Desa":"Keraton",
+    "Kecamatan":"Luwuk",
+    "Kab_Kota":"Banggai",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (VEGA)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946206,
+    "Nama_Operator":"Syamsudin",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Luwuk",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.6201,-4.0139 ]
+    },
+    "properties": {
+    "No":40,
+    "Title":"0040PRPR02",
+    "Nama_Stasiun":"Pare-pare",
+    "PIC":"Arif",
+    "Thn_Bangun":"2007",
+    "Desa":"Labukan",
+    "Kecamatan":"Ujung",
+    "Kab_Kota":"Pare-Pare",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946203,
+    "Nama_Operator":"Lukmanul Hakim",
+    "No_Operator":"82357403175",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Parepare",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.8328,-8.18916 ]
+    },
+    "properties": {
+    "No":41,
+    "Title":"0041CLBW02",
+    "Nama_Stasiun":"Celukan Bawang",
+    "PIC":"Ghani",
+    "Thn_Bangun":"1997",
+    "Desa":"Celukan Bawang",
+    "Kecamatan":"Gerokgak",
+    "Kab_Kota":"Singaraja",
+    "Provinsi":"Bali",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946163,
+    "Nama_Operator":"Hariyadi",
+    "No_Operator":"036292333/081338890331",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Celukan Bawang",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.023",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.42004,-6.94773 ]
+    },
+    "properties": {
+    "No":42,
+    "Title":"0042SMRG01",
+    "Nama_Stasiun":"Semarang",
+    "PIC":"Herwin",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Tanjung Mas",
+    "Kecamatan":"Semarang Utara",
+    "Kab_Kota":"Semarang",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946084,
+    "Nama_Operator":"Zakiyuddin",
+    "No_Operator":"89614464561",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Tanjung Emas, Semarang",
+    "Status":"BIG + UHSLC",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.373,-8.4628 ]
+    },
+    "properties": {
+    "No":43,
+    "Title":"0043BDAS02",
+    "Nama_Stasiun":"Badas",
+    "PIC":"Ghani",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Badas",
+    "Kecamatan":"Labuan Badas",
+    "Kab_Kota":"Sumbawa Besar",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946224,
+    "Nama_Operator":"Paryadi W. R",
+    "No_Operator":"03712706068/081237428532",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Badas",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5833,-3.97361 ]
+    },
+    "properties": {
+    "No":44,
+    "Title":"0044KDRI02",
+    "Nama_Stasiun":"Kendari",
+    "PIC":"Sofie",
+    "Thn_Bangun":"1997",
+    "Desa":"",
+    "Kecamatan":"Abeli",
+    "Kab_Kota":"Kendari",
+    "Provinsi":"Sulawesi Tenggara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (VEGA)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946192,
+    "Nama_Operator":"La Dodi",
+    "No_Operator":"#N/A",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Kendari dan KSOP Kelas I Kendari ",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2508,-9.63779 ]
+    },
+    "properties": {
+    "No":45,
+    "Title":"0045WGPO02",
+    "Nama_Stasiun":"Waingapu",
+    "PIC":"Sofie",
+    "Thn_Bangun":"<2007",
+    "Desa":"Hambalah",
+    "Kecamatan":"Kota",
+    "Kab_Kota":"Sumba Timur",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946246,
+    "Nama_Operator":"Abdul Chalid",
+    "No_Operator":"81339881233",
+    "Pengelola_Dermaga":"PT Pelindo III Kawasan Waingapu",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.39,-8.47816 ]
+    },
+    "properties": {
+    "No":46,
+    "Title":"0046MEKE03",
+    "Nama_Stasiun":"Merauke",
+    "PIC":"Syarif",
+    "Thn_Bangun":"1998",
+    "Desa":"Maro",
+    "Kecamatan":"Merauke",
+    "Kab_Kota":"Merauke",
+    "Provinsi":"Papua",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946236,
+    "Nama_Operator":"Eko Prasetyo",
+    "No_Operator":"81344287262",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Merauke",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.0755,-0.86841 ]
+    },
+    "properties": {
+    "No":47,
+    "Title":"0047MWRI03",
+    "Nama_Stasiun":"Manokwari",
+    "PIC":"Any",
+    "Thn_Bangun":"1998",
+    "Desa":"Lamreh",
+    "Kecamatan":"Manokwari barat",
+    "Kab_Kota":"Manokwari",
+    "Provinsi":"Papua Barat",
+    "Tipe_Sensor_1":"Float (SE200)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946253,
+    "Nama_Operator":"Sudirman",
+    "No_Operator":"81248645110",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Manokwari",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1456,-3.29141 ]
+    },
+    "properties": {
+    "No":48,
+    "Title":"0048KTBR02",
+    "Nama_Stasiun":"Kotabaru",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2009",
+    "Desa":"Stagen",
+    "Kecamatan":"Pulau Laut Utara",
+    "Kab_Kota":"Kota Baru",
+    "Provinsi":"Kalimantan Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946204,
+    "Nama_Operator":"Muhammad Rafi'i",
+    "No_Operator":"82159660271",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Kotabaru",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.01467,1.72428 ]
+    },
+    "properties": {
+    "No":49,
+    "Title":"0049TBLO03",
+    "Nama_Stasiun":"Tobelo",
+    "PIC":"Herwin",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Mamiri",
+    "Kecamatan":"Tobelo",
+    "Kab_Kota":"Halmahera Utara",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946176,
+    "Nama_Operator":"Otniel Oktavianus Galela",
+    "No_Operator":"81220486288",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Tobelo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.69426,3.78789 ]
+    },
+    "properties": {
+    "No":50,
+    "Title":"0050BLWN01",
+    "Nama_Stasiun":"Belawan",
+    "PIC":"Adnan",
+    "Thn_Bangun":"1998",
+    "Desa":"Belawan Satu",
+    "Kecamatan":"Medan Belawan",
+    "Kab_Kota":"Medan",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946140,
+    "Nama_Operator":"Strata Yudha Saputra",
+    "No_Operator":"81370444500",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Belawan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.8,1.05062 ]
+    },
+    "properties": {
+    "No":51,
+    "Title":"0051TLTL02",
+    "Nama_Stasiun":"Toli-toli",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"1998",
+    "Desa":"Sidoarjo",
+    "Kecamatan":"Baolan",
+    "Kab_Kota":"Tolitoli",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946198,
+    "Nama_Operator":"Irfan A. Basir",
+    "No_Operator":"82292432217",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Toli-Toli, Pelabuhan Toli-Toli",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.2906,-7.98267 ]
+    },
+    "properties": {
+    "No":52,
+    "Title":"0052SMLK03",
+    "Nama_Stasiun":"Saumlaki",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2008",
+    "Desa":"Saumlaki",
+    "Kecamatan":"Tanimbar",
+    "Kab_Kota":"Maluku Tenggara Barat",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946063,
+    "Nama_Operator":"Jonias Marian",
+    "No_Operator":"82312140925",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Saumlaki Maluku",
+    "Status":"UHSLC",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.5016,3.60226 ]
+    },
+    "properties": {
+    "No":53,
+    "Title":"0053THAN02",
+    "Nama_Stasiun":"Tahuna",
+    "PIC":"Sofie",
+    "Thn_Bangun":"1998",
+    "Desa":"Sawang Besar",
+    "Kecamatan":"Tahuna",
+    "Kab_Kota":"Sangihe",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946181,
+    "Nama_Operator":"Gayus Bartolumeus Manikome",
+    "No_Operator":"85340179115",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Tahuna Sulawesi Utara",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.2194,-8.61505 ]
+    },
+    "properties": {
+    "No":54,
+    "Title":"0054MMRE02",
+    "Nama_Stasiun":"Maumere",
+    "PIC":"Arif",
+    "Thn_Bangun":"1998",
+    "Desa":"Maumere",
+    "Kecamatan":"Alok Timur",
+    "Kab_Kota":"Sikka",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946248,
+    "Nama_Operator":"Moh Nasir Mora Odja",
+    "No_Operator":"81339457111",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Maumere",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"#N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.6118,-5.45398 ]
+    },
+    "properties": {
+    "No":55,
+    "Title":"0055BBAU02",
+    "Nama_Stasiun":"Baubau",
+    "PIC":"Syarif",
+    "Thn_Bangun":"1998",
+    "Desa":"Wale",
+    "Kecamatan":"Wolio",
+    "Kab_Kota":"Baubau",
+    "Provinsi":"Sulawesi Tenggara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946190,
+    "Nama_Operator":"Aminullah",
+    "No_Operator":"08114001177/082191990077",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas I Baubau",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.2178,3.21711 ]
+    },
+    "properties": {
+    "No":56,
+    "Title":"0061TRMP01",
+    "Nama_Stasiun":"Tarempa",
+    "PIC":"Ridho",
+    "Thn_Bangun":"<2007",
+    "Desa":"Tarempa",
+    "Kecamatan":"Siantan",
+    "Kab_Kota":"Kepulauan Anabas",
+    "Provinsi":"Kepulauan Riau",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946183,
+    "Nama_Operator":"Mustafa Ali",
+    "No_Operator":"81536389878",
+    "Pengelola_Dermaga":"TNI AL - Lanal Tarempa",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5733,-8.38509 ]
+    },
+    "properties": {
+    "No":57,
+    "Title":"0066JBRN02",
+    "Nama_Stasiun":"Jembrana",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2007",
+    "Desa":"Pengambengan",
+    "Kecamatan":"Negara",
+    "Kab_Kota":"Jembrana",
+    "Provinsi":"Bali",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946164,
+    "Nama_Operator":"Erlina",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"KKP - PPN Pengambengan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.023",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8095,-6.12521 ]
+    },
+    "properties": {
+    "No":58,
+    "Title":"0071SKLP01",
+    "Nama_Stasiun":"Sunda kelapa",
+    "PIC":"Ruli",
+    "Thn_Bangun":"<2007",
+    "Desa":"Penjaringan",
+    "Kecamatan":"Penjaringan",
+    "Kab_Kota":"Jakarta Utara",
+    "Provinsi":"DKI Jakarta",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (VEGA)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946073,
+    "Nama_Operator":"Dede Gresifa A.S",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Sunda Kelapa",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.31733,5.88865 ]
+    },
+    "properties": {
+    "No":59,
+    "Title":"0075SBNG01",
+    "Nama_Stasiun":"Sabang",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2007",
+    "Desa":"Kota Bawah Barat",
+    "Kecamatan":"Sukakarya",
+    "Kab_Kota":"Sabang",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Radar (VEGA)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946256,
+    "Nama_Operator":"Dedy Sutoyo",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"TNI AL - Lanal Sabang",
+    "Status":"UHSLC",
+    "Zonasi":"6445.CCI.011",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.82231,0.55412 ]
+    },
+    "properties": {
+    "No":60,
+    "Title":"0076TDLM01",
+    "Nama_Stasiun":"Teluk Dalam",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2007",
+    "Desa":"Teluk Dalam",
+    "Kecamatan":"Teluk Dalam",
+    "Kab_Kota":"Nias Selatan",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (VEGA)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946115,
+    "Nama_Operator":"Faahakho Dodo Giawa",
+    "No_Operator":"082167741022/ 081362804212",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Teluk Dalam",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.5992,-3.22468 ]
+    },
+    "properties": {
+    "No":61,
+    "Title":"0077SBLT01",
+    "Nama_Stasiun":"Seblat",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2007",
+    "Desa":"Seblat",
+    "Kecamatan":"Putri hijau",
+    "Kab_Kota":"Bengkulu Utara",
+    "Provinsi":"Bengkulu",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946149,
+    "Nama_Operator":"Basmen Sinurat",
+    "No_Operator":"85273180300",
+    "Pengelola_Dermaga":"PT Agricinal Seblat",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.5168,-8.2196 ]
+    },
+    "properties": {
+    "No":62,
+    "Title":"0078ALOR02",
+    "Nama_Stasiun":"Alor",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2007",
+    "Desa":"Woetaba",
+    "Kecamatan":"Teluk Mutiara",
+    "Kab_Kota":"Alor",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946251,
+    "Nama_Operator":"Godlyv Ebenheser Puling",
+    "No_Operator":"0821144112600/ 085945741848",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Kalabahi",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.61012,1.30562 ]
+    },
+    "properties": {
+    "No":63,
+    "Title":"0079SITO01",
+    "Nama_Stasiun":"Gunung Sitoli",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2017",
+    "Desa":"Saombo",
+    "Kecamatan":"Gunung Sitoli",
+    "Kab_Kota":"Gunung Sitoli",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Float (SE200)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946116,
+    "Nama_Operator":"Elingkari Septiyanus Hulu",
+    "No_Operator":"81221993199",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Gunung Sitoli",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.6193,-5.50046 ]
+    },
+    "properties": {
+    "No":64,
+    "Title":"0080KTAG01",
+    "Nama_Stasiun":"Kota Agung",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2007",
+    "Desa":"Pasar Madang",
+    "Kecamatan":"Kota Agung Pusat",
+    "Kab_Kota":"Tanggamus",
+    "Provinsi":"Lampung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946154,
+    "Nama_Operator":"Herman Leus",
+    "No_Operator":"82183150303",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Kota Agung Lampung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.17171,1.39727 ]
+    },
+    "properties": {
+    "No":65,
+    "Title":"0081LAHE01",
+    "Nama_Stasiun":"Lahewa",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2007",
+    "Desa":"Lahewa",
+    "Kecamatan":"Lahewa",
+    "Kab_Kota":"Nias Utara",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (Esterline)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946124,
+    "Nama_Operator":"Jefriman Jalukhu",
+    "No_Operator":"81263593330",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Lahewa Sumatera Utara",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4867,-8.67655 ]
+    },
+    "properties": {
+    "No":66,
+    "Title":"0082NUSA02",
+    "Nama_Stasiun":"Nusa Penida",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2007",
+    "Desa":"Ped",
+    "Kecamatan":"Nusa Penida",
+    "Kab_Kota":"Klungkung",
+    "Provinsi":"Bali",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":85792281476,
+    "Nama_Operator":"I Wayan Sarman",
+    "No_Operator":"085738658210/085338229354",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Nusa Penida Bali",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.023",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6826,-7.66153 ]
+    },
+    "properties": {
+    "No":67,
+    "Title":"0083PMPK01",
+    "Nama_Stasiun":"Pameungpeuk",
+    "PIC":"David",
+    "Thn_Bangun":"2007",
+    "Desa":"Mancagahar",
+    "Kecamatan":"Pameungpeuk",
+    "Kab_Kota":"Garut",
+    "Provinsi":"Jawa barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946134,
+    "Nama_Operator":"Agus Suherman",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"KKP - PPP Cilauteureun",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.5014,-7.74831 ]
+    },
+    "properties": {
+    "No":68,
+    "Title":"0084PGDR01",
+    "Nama_Stasiun":"Pangandaran",
+    "PIC":"Arif",
+    "Thn_Bangun":"2008",
+    "Desa":"Batu Karas",
+    "Kecamatan":"Cijulang",
+    "Kab_Kota":"Pangandaran",
+    "Provinsi":"Jawa Barat",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946268,
+    "Nama_Operator":"PEPI ISNAWATI",
+    "No_Operator":"8124174755",
+    "Pengelola_Dermaga":"n/a",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.38156,0.19942 ]
+    },
+    "properties": {
+    "No":69,
+    "Title":"0085ABGS01",
+    "Nama_Stasiun":"Air Bangis",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2007",
+    "Desa":"Air Bangis",
+    "Kecamatan":"Sungai Beremas",
+    "Kab_Kota":"Pasaman Barat",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946096,
+    "Nama_Operator":"Afriandi Ramadhan",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"KKP - PPI Air Bangis",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.40787,2.29498 ]
+    },
+    "properties": {
+    "No":70,
+    "Title":"0086BNYK01",
+    "Nama_Stasiun":"Pulau Banyak",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Pulau Balai",
+    "Kecamatan":"Pulau Banyak",
+    "Kab_Kota":"Aceh Singkil",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8111036432,
+    "Nama_Operator":"Irwan T",
+    "No_Operator":"82166554345",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Singkil Wilker P. Banyak",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.285,-0.05016 ]
+    },
+    "properties": {
+    "No":71,
+    "Title":"0087TELO01",
+    "Nama_Stasiun":"Pulau Tello",
+    "PIC":"Heru",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Tello",
+    "Kecamatan":"Pulau Pulau Batu",
+    "Kab_Kota":"Nias Selatan",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946106,
+    "Nama_Operator":"M. Irwansyah Sinaga",
+    "No_Operator":"81397870033",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Pulau Tello",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.9812,-2.05675 ]
+    },
+    "properties": {
+    "No":72,
+    "Title":"0088SANA03",
+    "Nama_Stasiun":"Sanana",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Fagudu",
+    "Kecamatan":"Sanana",
+    "Kab_Kota":"Kepulauan Sula",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946275,
+    "Nama_Operator":"M. Fadli Saleh",
+    "No_Operator":"82187932278",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Sanana",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.81276,2.26814 ]
+    },
+    "properties": {
+    "No":73,
+    "Title":"0089SING01",
+    "Nama_Stasiun":"Singkil",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Pulo Sarok",
+    "Kecamatan":"Aceh Singkil",
+    "Kab_Kota":"Aceh Singkil",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8111036428,
+    "Nama_Operator":"Muhammad Ridwan",
+    "No_Operator":"82269299719",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Singkil NAD",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.3823,-1.95111 ]
+    },
+    "properties": {
+    "No":74,
+    "Title":"0091TALI03",
+    "Nama_Stasiun":"Taliabu",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2007",
+    "Desa":"Wayo",
+    "Kecamatan":"Bobong",
+    "Kab_Kota":"Kep. Sula",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946276,
+    "Nama_Operator":"Abd Rauf Soamole,ST",
+    "No_Operator":"81330324105",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  II Sanana Maluku Utara",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2778,-5.34605 ]
+    },
+    "properties": {
+    "No":75,
+    "Title":"0092ENGG01",
+    "Nama_Stasiun":"Enggano",
+    "PIC":"Any",
+    "Thn_Bangun":"2007",
+    "Desa":"Malakoni",
+    "Kecamatan":"Enggano",
+    "Kab_Kota":"Bengkulu Utara",
+    "Provinsi":"Bengkulu",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946283,
+    "Nama_Operator":"TOMY PAZRI",
+    "No_Operator":"82312030093",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Malakoni-Enggano",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.2189,-9.38991 ]
+    },
+    "properties": {
+    "No":76,
+    "Title":"0094WAIK02",
+    "Nama_Stasiun":"Waikelo",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2007",
+    "Desa":"Radamata",
+    "Kecamatan":"Laora",
+    "Kab_Kota":"Sumba Barat Daya",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946235,
+    "Nama_Operator":"Adri Yosafat Tabusan",
+    "No_Operator":"81339463070",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas  III Waikelo NTT",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"#N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.13187,4.12752 ]
+    },
+    "properties": {
+    "No":77,
+    "Title":"0095MLBH01",
+    "Nama_Stasiun":"Meulaboh",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Swaindra Puri",
+    "Kecamatan":"Johan Pahlawan",
+    "Kab_Kota":"Aceh Barat",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Tidak ada",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946101,
+    "Nama_Operator":"Heri Martarizal",
+    "No_Operator":"82370415299",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas V Meulaboh",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.413,-4.84203 ]
+    },
+    "properties": {
+    "No":78,
+    "Title":"0096BINT01",
+    "Nama_Stasiun":"Bintuhan",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2007",
+    "Desa":"Linau",
+    "Kecamatan":"Maje",
+    "Kab_Kota":"Kaur",
+    "Provinsi":"Bengkulu",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946151,
+    "Nama_Operator":"Sirajuddin Abbas",
+    "No_Operator":"081368007088 / 082282505553",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Linau Bintuhan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8963,-6.83548 ]
+    },
+    "properties": {
+    "No":79,
+    "Title":"0097BINU01",
+    "Nama_Stasiun":"Binuangeun",
+    "PIC":"Heru",
+    "Thn_Bangun":"2007",
+    "Desa":"Muara",
+    "Kecamatan":"Wanassalam",
+    "Kab_Kota":"Lebak",
+    "Provinsi":"Banten",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946133,
+    "Nama_Operator":"Deni Firmansyah",
+    "No_Operator":"87773343520",
+    "Pengelola_Dermaga":"PT Sumber Arta Mineral",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.3068,-5.63355 ]
+    },
+    "properties": {
+    "No":80,
+    "Title":"0099BKNT01",
+    "Nama_Stasiun":"Bengkunat",
+    "PIC":"Heru",
+    "Thn_Bangun":"<2007",
+    "Desa":"Kota Jawa",
+    "Kecamatan":"Bengkunat",
+    "Kab_Kota":"Pesisir Barat",
+    "Provinsi":"Lampung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946153,
+    "Nama_Operator":"Mazkur",
+    "No_Operator":"85369413930",
+    "Pengelola_Dermaga":"n/a",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9331,-5.1835 ]
+    },
+    "properties": {
+    "No":81,
+    "Title":"0100KRUI01",
+    "Nama_Stasiun":"Krui",
+    "PIC":"Any",
+    "Thn_Bangun":"<2007",
+    "Desa":"Pasar Krui",
+    "Kecamatan":"Pesisir Tengah",
+    "Kab_Kota":"Pesisir Barat",
+    "Provinsi":"Lampung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946152,
+    "Nama_Operator":"Ludi Lukardi",
+    "No_Operator":"81379200801",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Krui",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.957,-1.08044 ]
+    },
+    "properties": {
+    "No":82,
+    "Title":"0101SKBL01",
+    "Nama_Stasiun":"Sikabaluan",
+    "PIC":"Ghani",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Pokai",
+    "Kecamatan":"Muara Sikabaluan",
+    "Kab_Kota":"Kep. Mentawai",
+    "Provinsi":"Sumatera Barat ",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946092,
+    "Nama_Operator":"Erwin Harahap",
+    "No_Operator":"81363800810",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Muara Siberut",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.2151,-2.77742 ]
+    },
+    "properties": {
+    "No":83,
+    "Title":"0102SIKA01",
+    "Nama_Stasiun":"Sikakap",
+    "PIC":"David",
+    "Thn_Bangun":"2007",
+    "Desa":"Sikakap",
+    "Kecamatan":"Sikakap",
+    "Kab_Kota":"Kep. Mentawai",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946095,
+    "Nama_Operator":"Ade Neng Saputra",
+    "No_Operator":"082283469783/081277268496",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Sikakap",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.59342,-2.02997 ]
+    },
+    "properties": {
+    "No":84,
+    "Title":"0103TPJT01",
+    "Nama_Stasiun":"Tuapejat",
+    "PIC":"Any",
+    "Thn_Bangun":"< 2007",
+    "Desa":"Tuapejat",
+    "Kecamatan":"Sipora Utara",
+    "Kab_Kota":"Kep. Mentawai",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946094,
+    "Nama_Operator":"Rio Putra",
+    "No_Operator":"82389052117",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Sioban Wilker Tuapejat",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0837,-3.26922 ]
+    },
+    "properties": {
+    "No":85,
+    "Title":"0107NAML03",
+    "Nama_Stasiun":"Namlea",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2007",
+    "Desa":"Namlea",
+    "Kecamatan":"Namlea",
+    "Kab_Kota":"Buru",
+    "Provinsi":"Maluku ",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946272,
+    "Nama_Operator":"Fitra Syukur,SE",
+    "No_Operator":"085243401404/081247428064",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Namlea Maluku ",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.5046,-3.10028 ]
+    },
+    "properties": {
+    "No":86,
+    "Title":"0108BULA03",
+    "Nama_Stasiun":"Bula",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2008",
+    "Desa":"Tansi Ambon",
+    "Kecamatan":"Bula",
+    "Kab_Kota":"Seram Timur",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946271,
+    "Nama_Operator":"Abdul Razak Pelu",
+    "No_Operator":"82221545010",
+    "Pengelola_Dermaga":"PT Pertamina Terminal BBM Bula Maluku",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8909,-6.10674 ]
+    },
+    "properties": {
+    "No":87,
+    "Title":"0109KOLI01",
+    "Nama_Stasiun":"Kolinlamil",
+    "PIC":"Arif",
+    "Thn_Bangun":"2007",
+    "Desa":"",
+    "Kecamatan":"Tanjung Priok",
+    "Kab_Kota":"Jakarta Utara",
+    "Provinsi":"DKI Jakarta",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946286,
+    "Nama_Operator":"Bayu Ermawan",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Tanjung Priok",
+    "Status":"GFZ",
+    "Zonasi":"6445.CCI.026",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.0878,-7.77207 ]
+    },
+    "properties": {
+    "No":88,
+    "Title":"0110SARI01",
+    "Nama_Stasiun":"Pamayang Sari",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2007",
+    "Desa":"Cikawungading",
+    "Kecamatan":"Cipatujah",
+    "Kab_Kota":"Tasikmalaya",
+    "Provinsi":"Jawa Barat",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946059,
+    "Nama_Operator":"Sana Sopiana",
+    "No_Operator":"82319176456",
+    "Pengelola_Dermaga":"KKP - PPI Pamayangsari",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.9466,-6.76372 ]
+    },
+    "properties": {
+    "No":89,
+    "Title":"0112TBAN01",
+    "Nama_Stasiun":"Tuban",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2010",
+    "Desa":"Remen",
+    "Kecamatan":"Jeriw",
+    "Kab_Kota":"Tuban",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946083,
+    "Nama_Operator":"Suyanto",
+    "No_Operator":"085236542356/081331859557",
+    "Pengelola_Dermaga":"PT Trans Pacific Petrochemical Indotama Tuban",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.4441,1.68916 ]
+    },
+    "properties": {
+    "No":90,
+    "Title":"0114DMAI01",
+    "Nama_Stasiun":"Dumai",
+    "PIC":"Heru",
+    "Thn_Bangun":"2010",
+    "Desa":"Dumai Kota",
+    "Kecamatan":"Dumai Kota",
+    "Kab_Kota":"Dumai",
+    "Provinsi":"Riau",
+    "Tipe_Sensor_1":"Float (SE200)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946147,
+    "Nama_Operator":"Eko Chandra",
+    "No_Operator":"082285813222/082390090052",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Dumai",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.57159,4.6321 ]
+    },
+    "properties": {
+    "No":91,
+    "Title":"0116CLNG01",
+    "Nama_Stasiun":"Calang",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2010",
+    "Desa":"Bahagia",
+    "Kecamatan":"Krueng Sabee",
+    "Kab_Kota":"Aceh Jaya",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Tidak ada",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946103,
+    "Nama_Operator":"Nailan",
+    "No_Operator":"85277753144",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Calang",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.38557,2.47239 ]
+    },
+    "properties": {
+    "No":92,
+    "Title":"0117SNBG01",
+    "Nama_Stasiun":"Sinabang",
+    "PIC":"Arif",
+    "Thn_Bangun":"2010",
+    "Desa":"Sukajaya",
+    "Kecamatan":"Simeuleu timur",
+    "Kab_Kota":"Simeulue",
+    "Provinsi":"Nangroe Aceh Darussalam\n",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946264,
+    "Nama_Operator":"ERLIANTO",
+    "No_Operator":"82294600100",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Sinabang",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.803,-0.43258 ]
+    },
+    "properties": {
+    "No":93,
+    "Title":"0119PAAM03",
+    "Nama_Stasiun":"Raja Ampat",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2010",
+    "Desa":"Sapordanco",
+    "Kecamatan":"Waisai",
+    "Kab_Kota":"Raja Ampat",
+    "Provinsi":"Papua Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946254,
+    "Nama_Operator":"Herman Ringo Aitem, A.Md",
+    "No_Operator":"81344260083",
+    "Pengelola_Dermaga":"DISHUB Kab. Raja Ampat",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7951,0.8588 ]
+    },
+    "properties": {
+    "No":94,
+    "Title":"0120AGRK02",
+    "Nama_Stasiun":"Anggrek",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2010",
+    "Desa":"Ilangata",
+    "Kecamatan":"Anggrek",
+    "Kab_Kota":"Gorontalo Utara",
+    "Provinsi":"Gorontalo",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946085,
+    "Nama_Operator":"Ariyanto Suila",
+    "No_Operator":"085342838665/085280416547",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Anggrek Gorontalo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.4007,-8.13061 ]
+    },
+    "properties": {
+    "No":95,
+    "Title":"0121KTPG01",
+    "Nama_Stasiun":"Ketapang",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2010",
+    "Desa":"Ketapang",
+    "Kecamatan":"Kalipuro",
+    "Kab_Kota":"Banyuwangi",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946218,
+    "Nama_Operator":"Holid Alfianto",
+    "No_Operator":"85230179223",
+    "Pengelola_Dermaga":"PT Pelindo III Cabang Tanjung Wangi",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.4536,-8.28497 ]
+    },
+    "properties": {
+    "No":96,
+    "Title":"0122PREO02",
+    "Nama_Stasiun":"Reo",
+    "PIC":"Ruli",
+    "Thn_Bangun":"#N/A",
+    "Desa":"Reok",
+    "Kecamatan":"Reo",
+    "Kab_Kota":"Manggarai",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946187,
+    "Nama_Operator":"Ahmad",
+    "No_Operator":"81371316228",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Reo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"#N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.4272,-0.07738 ]
+    },
+    "properties": {
+    "No":97,
+    "Title":"0123GEBE03",
+    "Nama_Stasiun":"Gebe",
+    "PIC":"Arif",
+    "Thn_Bangun":"2010",
+    "Desa":"Gebe",
+    "Kecamatan":"Pulau Gebe",
+    "Kab_Kota":"Halmahera Tengah",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946281,
+    "Nama_Operator":"Fahri R. Tobuku",
+    "No_Operator":"082221147031/082196636284",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III, Kec. Pulau Gebe, Kab. Halmahera Tengah",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.07421,-8.22724 ]
+    },
+    "properties": {
+    "No":98,
+    "Title":"0124PCTN01",
+    "Nama_Stasiun":"Pacitan",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2010",
+    "Desa":"Sidoharjo",
+    "Kecamatan":"Pacitan",
+    "Kab_Kota":"Pacitan",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946170,
+    "Nama_Operator":"Suro Basuki",
+    "No_Operator":"083135163485 / 082141301409",
+    "Pengelola_Dermaga":"KKP - PPP Tamperan, Pacitan (UPTD Provinsi Jawa Timur)",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.02,-8.5687 ]
+    },
+    "properties": {
+    "No":99,
+    "Title":"0125SAPE02",
+    "Nama_Stasiun":"Sape",
+    "PIC":"Any",
+    "Thn_Bangun":"2010",
+    "Desa":"Bugis",
+    "Kecamatan":"Sape",
+    "Kab_Kota":"Bima",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946228,
+    "Nama_Operator":"Baharudin",
+    "No_Operator":"85237228887",
+    "Pengelola_Dermaga":"KKP - PPI Sape, Bima (UPTD Provinsi NTB)",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.8969,-4.525 ]
+    },
+    "properties": {
+    "No":100,
+    "Title":"0126BNDA03",
+    "Nama_Stasiun":"Banda",
+    "PIC":"Arif",
+    "Thn_Bangun":"2010",
+    "Desa":"Nusantara",
+    "Kecamatan":"Banda",
+    "Kab_Kota":"Maluku Tengah",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946257,
+    "Nama_Operator":"Mochamad Djunaidi",
+    "No_Operator":"085244214948 / 085254327641",
+    "Pengelola_Dermaga":"DITJEN HUBLA Direktorat KPLP Banda Naira",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.04484,5.7361 ]
+    },
+    "properties": {
+    "No":101,
+    "Title":"0127BREU01",
+    "Nama_Stasiun":"Breueh",
+    "PIC":"Any",
+    "Thn_Bangun":"2010",
+    "Desa":"Meulingge",
+    "Kecamatan":"Pulo Aceh",
+    "Kab_Kota":"Aceh Besar",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946259,
+    "Nama_Operator":"Nazaruddin",
+    "No_Operator":"81360569961",
+    "Pengelola_Dermaga":"DISHUB Provinsi NAD",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.5698,-1.35017 ]
+    },
+    "properties": {
+    "No":102,
+    "Title":"0128PAIN01",
+    "Nama_Stasiun":"Painan",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2010",
+    "Desa":"Painan Selatan",
+    "Kecamatan":"IV Jurai",
+    "Kab_Kota":"Pesisir Selatan",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946097,
+    "Nama_Operator":"Iwan",
+    "No_Operator":"8.22E+11",
+    "Pengelola_Dermaga":"KKP - PPI Carocok Painan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.8383,1.49872 ]
+    },
+    "properties": {
+    "No":103,
+    "Title":"0129MNDO02",
+    "Nama_Stasiun":"Manado",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2010",
+    "Desa":"Calaca",
+    "Kecamatan":"Wenang",
+    "Kab_Kota":"Manado",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946184,
+    "Nama_Operator":"Anton Yusuf",
+    "No_Operator":"082345873237 / 082354156765",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KPLP Manado",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.7526,-1.858 ]
+    },
+    "properties": {
+    "No":104,
+    "Title":"0130SRMI03",
+    "Nama_Stasiun":"Sarmi",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2010",
+    "Desa":"Sarmi Kota",
+    "Kecamatan":"Sarmi",
+    "Kab_Kota":"Sarmi",
+    "Provinsi":"Papua",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946239,
+    "Nama_Operator":"Denny Patombone",
+    "No_Operator":"81283740436",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Sarmi",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.025",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.19696,-1.56383 ]
+    },
+    "properties": {
+    "No":105,
+    "Title":"0131MLPT01",
+    "Nama_Stasiun":"Maileppet",
+    "PIC":"Any",
+    "Thn_Bangun":"2007",
+    "Desa":"Maileppet",
+    "Kecamatan":"Siberut Selatan",
+    "Kab_Kota":"Kep. Mentawai",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946093,
+    "Nama_Operator":"Karsilo",
+    "No_Operator":"81374886330",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Muara Siberut ",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5255,-8.77044 ]
+    },
+    "properties": {
+    "No":106,
+    "Title":"0132TJLR02",
+    "Nama_Stasiun":"Tanjung Luar",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2007",
+    "Desa":"Tanjung Luar",
+    "Kecamatan":"Keruak",
+    "Kab_Kota":"Lombok Timur",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946238,
+    "Nama_Operator":"Irwan Satriadi S",
+    "No_Operator":"085337718111/ 087763072757",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Labuhan Lombok",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.0974,2.27503 ]
+    },
+    "properties": {
+    "No":107,
+    "Title":"0133TJBT02",
+    "Nama_Stasiun":"Tanjung Batu",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2010",
+    "Desa":"Tanjung Batu",
+    "Kecamatan":"Pulau Derawan",
+    "Kab_Kota":"Berau",
+    "Provinsi":"Kalimantan Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946274,
+    "Nama_Operator":"Auriansyah",
+    "No_Operator":"85348311376",
+    "Pengelola_Dermaga":"PT Pelindo IV  Cabang Tanjung Redeb Berau",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.6666,4.14641 ]
+    },
+    "properties": {
+    "No":108,
+    "Title":"0134NNKN02",
+    "Nama_Stasiun":"Nunukan",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2007",
+    "Desa":"Nunukan Tengah",
+    "Kecamatan":"Nunukan Tengah",
+    "Kab_Kota":"Nunukan",
+    "Provinsi":"Kalimantan Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946186,
+    "Nama_Operator":"M. Yusran Yunus",
+    "No_Operator":"8125553866",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Nunukan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.5846,-6.73386 ]
+    },
+    "properties": {
+    "No":109,
+    "Title":"0135CRBN01",
+    "Nama_Stasiun":"Cirebon",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2013",
+    "Desa":"Pegambiran",
+    "Kecamatan":"Lemawungkuk",
+    "Kab_Kota":"Cirebon",
+    "Provinsi":"Jawa Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946087,
+    "Nama_Operator":"Ivan Somantri",
+    "No_Operator":"85215548968",
+    "Pengelola_Dermaga":"KKP - PP Kejawanan Cirebon",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020-2019-2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6836,-8.43421 ]
+    },
+    "properties": {
+    "No":110,
+    "Title":"0136SBRU01",
+    "Nama_Stasiun":"Sendang Biru",
+    "PIC":"Arif",
+    "Thn_Bangun":"2013",
+    "Desa":"Pondok Dadap",
+    "Kecamatan":"Sumber Manjing wetan",
+    "Kab_Kota":"Malang",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946082,
+    "Nama_Operator":"Ikhwan Iskandar Zulkarnaen",
+    "No_Operator":"81334579242",
+    "Pengelola_Dermaga":"KKP - PPP Pondok Dadap (UPTD Provinsi Jawa Timur)",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.4771,-5.78786 ]
+    },
+    "properties": {
+    "No":111,
+    "Title":"0137KRJW01",
+    "Nama_Stasiun":"Karimun Jawa",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2013",
+    "Desa":"Kamujan",
+    "Kecamatan":"Karimun",
+    "Kab_Kota":"Jepara",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946091,
+    "Nama_Operator":"Ahmadun",
+    "No_Operator":"081329189863 / 085325451065",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Karimunjawa Wilker Legon Bajak",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6287,-2.74404 ]
+    },
+    "properties": {
+    "No":112,
+    "Title":"0138BLTG01",
+    "Nama_Stasiun":"Belitung",
+    "PIC":"Arif",
+    "Thn_Bangun":"2014",
+    "Desa":"",
+    "Kecamatan":"Tanjung Pandan",
+    "Kab_Kota":"Belitung",
+    "Provinsi":"Bangka Belitung ",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946132,
+    "Nama_Operator":"Muqham Elsafat",
+    "No_Operator":"81367154046",
+    "Pengelola_Dermaga":"PT Pelindo II Cabang Belitung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.3917,3.89191 ]
+    },
+    "properties": {
+    "No":113,
+    "Title":"0139NTNA01",
+    "Nama_Stasiun":"Natuna",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2014",
+    "Desa":"Penagi",
+    "Kecamatan":"Bunguran Timur",
+    "Kab_Kota":"Natuna",
+    "Provinsi":"Kepulauan Riau",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946098,
+    "Nama_Operator":"Iskandar",
+    "No_Operator":"81276848855",
+    "Pengelola_Dermaga":"DISHUB Kabupaten Natuna",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.29478,5.56652 ]
+    },
+    "properties": {
+    "No":114,
+    "Title":"0140ULEE01",
+    "Nama_Stasiun":"Ulee Lhue",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2015",
+    "Desa":"Ulee Lhue",
+    "Kecamatan":"Meuraxa",
+    "Kab_Kota":"Banda Aceh",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946127,
+    "Nama_Operator":"Yusrizal",
+    "No_Operator":"085277422423/ 082175072893",
+    "Pengelola_Dermaga":"DISHUB Kota Banda Aceh",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.1074,1.46597 ]
+    },
+    "properties": {
+    "No":115,
+    "Title":"0141BKLS01",
+    "Nama_Stasiun":"Bengkalis",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2015",
+    "Desa":"Kelapapati",
+    "Kecamatan":"Bengkalis",
+    "Kab_Kota":"Bengkalis",
+    "Provinsi":"Riau",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946146,
+    "Nama_Operator":"Hendri S.",
+    "No_Operator":"85364241792",
+    "Pengelola_Dermaga":"DISHUB Kabupaten Bengkalis",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.46599,3.37149 ]
+    },
+    "properties": {
+    "No":116,
+    "Title":"0144KLTJ01",
+    "Nama_Stasiun":"Kuala Tanjung",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2015",
+    "Desa":"Kuala Tanjung",
+    "Kecamatan":"Sei Suka",
+    "Kab_Kota":"Batu bara",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946141,
+    "Nama_Operator":"Surya Darma Syahputra",
+    "No_Operator":"81269999904",
+    "Pengelola_Dermaga":"PT Pelindo I Cabang Kuala Tanjung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4265,-8.22152 ]
+    },
+    "properties": {
+    "No":117,
+    "Title":"0145CRIK02",
+    "Nama_Stasiun":"Carik",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2015",
+    "Desa":"Anyar",
+    "Kecamatan":"Bayan",
+    "Kab_Kota":"Lombok Utara",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946219,
+    "Nama_Operator":"Muhammad Jaming",
+    "No_Operator":"081917228757/085238403581",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Pemenang Tanjung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6972,-0.92984 ]
+    },
+    "properties": {
+    "No":118,
+    "Title":"0146AMPN02",
+    "Nama_Stasiun":"Ampana",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2015",
+    "Desa":"Mantangisi",
+    "Kecamatan":"Ampana Tete",
+    "Kab_Kota":"Tojo Una Una",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946230,
+    "Nama_Operator":"Aswin R.Loku",
+    "No_Operator":"82293163848",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Ampana",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.6757,3.99789 ]
+    },
+    "properties": {
+    "No":119,
+    "Title":"0147MELO02",
+    "Nama_Stasiun":"Melonguane",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2015",
+    "Desa":"Melonguane Barat",
+    "Kecamatan":"Melonguane",
+    "Kab_Kota":"Talaud",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946182,
+    "Nama_Operator":"Hendry Z. Selamat",
+    "No_Operator":"81342215885",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Lirung",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.3883,0.78173 ]
+    },
+    "properties": {
+    "No":120,
+    "Title":"0148TRTE03",
+    "Nama_Stasiun":"Ternate",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2015",
+    "Desa":"Kota Baru",
+    "Kecamatan":"Ternate Tengah",
+    "Kab_Kota":"Ternate",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946172,
+    "Nama_Operator":"Abdul Rahman ",
+    "No_Operator":"81340132329",
+    "Pengelola_Dermaga":"PT Pelindo IV Cabang Ternate",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5785,-4.05275 ]
+    },
+    "properties": {
+    "No":121,
+    "Title":"0149KOLA02",
+    "Nama_Stasiun":"Kolaka",
+    "PIC":"Heru",
+    "Thn_Bangun":"2015",
+    "Desa":"Sea",
+    "Kecamatan":"Lambaga",
+    "Kab_Kota":"Kolaka",
+    "Provinsi":"Sulawesi Tenggara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946193,
+    "Nama_Operator":"Iqram Djunaedi S",
+    "No_Operator":"85343585000",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Kolaka",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8411,-6.18923 ]
+    },
+    "properties": {
+    "No":122,
+    "Title":"0150SERA01",
+    "Nama_Stasiun":"Serang",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2015",
+    "Desa":"Bulakan",
+    "Kecamatan":"Cinangka",
+    "Kab_Kota":"Serang",
+    "Provinsi":"Banten",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946138,
+    "Nama_Operator":"Hamdani",
+    "No_Operator":"81906317999",
+    "Pengelola_Dermaga":"Marina Jambu Boating Club",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.9464,-1.26029 ]
+    },
+    "properties": {
+    "No":123,
+    "Title":"0151KAYO01",
+    "Nama_Stasiun":"Kayong",
+    "PIC":"Arif",
+    "Thn_Bangun":"2015",
+    "Desa":"Telok Melano",
+    "Kecamatan":"Simpang Hilir",
+    "Kab_Kota":"Kayong Utara",
+    "Provinsi":"Kalimantan Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946215,
+    "Nama_Operator":"Aswandi",
+    "No_Operator":"82250353497",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Teluk Melanu Kayong",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.020",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.133,-1.85874 ]
+    },
+    "properties": {
+    "No":124,
+    "Title":"0152LIAT01",
+    "Nama_Stasiun":"Sungai Liat",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2015",
+    "Desa":"Padang",
+    "Kecamatan":"Sungai Liat",
+    "Kab_Kota":"Bangka",
+    "Provinsi":"Bangka Belitung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946129,
+    "Nama_Operator":"Djamal Naser",
+    "No_Operator":"0852-8076-5297",
+    "Pengelola_Dermaga":"KKP - PPN Sungailiat (UPT Pusat)",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.1797,-0.81229 ]
+    },
+    "properties": {
+    "No":125,
+    "Title":"0153PARI02",
+    "Nama_Stasiun":"Parigi",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2016",
+    "Desa":"Loji",
+    "Kecamatan":"Parigi",
+    "Kab_Kota":"Parigi Moutong",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946201,
+    "Nama_Operator":"Suhardi",
+    "No_Operator":"082393089398/085298685978",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Parigi",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2892,0.38654 ]
+    },
+    "properties": {
+    "No":126,
+    "Title":"0154TINO02",
+    "Nama_Stasiun":"Tinombo",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2016",
+    "Desa":"Slavu",
+    "Kecamatan":"Tinombo",
+    "Kab_Kota":"Parigi Moutong",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946196,
+    "Nama_Operator":"Yanto",
+    "No_Operator":"81237744100",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Parigi WilkerTinombo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"-4037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.8691,-0.41055 ]
+    },
+    "properties": {
+    "No":127,
+    "Title":"0155WKAI02",
+    "Nama_Stasiun":"Wakai",
+    "PIC":"Any",
+    "Thn_Bangun":"2016",
+    "Desa":"Wakai",
+    "Kecamatan":"Una-Una",
+    "Kab_Kota":"Tojo Una-Una",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946229,
+    "Nama_Operator":"Zulham Efendi Pasau",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Ampana Wilker Wakai",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.021",
+    "1":"--"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.08179,-7.9165 ]
+    },
+    "properties": {
+    "No":128,
+    "Title":"0156GLGH01",
+    "Nama_Stasiun":"Glagah",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2016",
+    "Desa":"Karang Wuni",
+    "Kecamatan":"Wates",
+    "Kab_Kota":"Kulon Progo",
+    "Provinsi":"DI Yogyakarta",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946167,
+    "Nama_Operator":"Sudarja",
+    "No_Operator":"82223615258",
+    "Pengelola_Dermaga":"Dinas Kelautan dan Perikanan  Kulon Progo",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.69275,-6.85848 ]
+    },
+    "properties": {
+    "No":129,
+    "Title":"0157PKLG01",
+    "Nama_Stasiun":"Pekalongan",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2016",
+    "Desa":"Panjang Wetan",
+    "Kecamatan":"Pekalongan Utara",
+    "Kab_Kota":"Pekalongan",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946086,
+    "Nama_Operator":"Aris Soedjoko",
+    "No_Operator":"81215693934",
+    "Pengelola_Dermaga":"KKP - PPN Pekalongan",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.28038,2.01655 ]
+    },
+    "properties": {
+    "No":130,
+    "Title":"0158MORO03",
+    "Nama_Stasiun":"Morotai",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2016",
+    "Desa":"Juanga",
+    "Kecamatan":"Morotai Selatan",
+    "Kab_Kota":"Pulau Morotai",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946179,
+    "Nama_Operator":"Asri Djalal",
+    "No_Operator":"85393245189",
+    "Pengelola_Dermaga":"DISHUBKOMINFO Morotai",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.73726,-3.00443 ]
+    },
+    "properties": {
+    "No":131,
+    "Title":"0159SDAI01",
+    "Nama_Stasiun":"Sadai",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2016",
+    "Desa":"Bukit Terap",
+    "Kecamatan":"Tukak Sadai",
+    "Kab_Kota":"Bangka Selatan",
+    "Provinsi":"Bangka Belitung",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946130,
+    "Nama_Operator":"Arafik",
+    "No_Operator":"081271766003/081949221182",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Toboali",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.4559,0.68005 ]
+    },
+    "properties": {
+    "No":132,
+    "Title":"0160TDRE03",
+    "Nama_Stasiun":"Tidore",
+    "PIC":"Any",
+    "Thn_Bangun":"2016",
+    "Desa":"Indonesiana",
+    "Kecamatan":"Tidore",
+    "Kab_Kota":"Tidore Kepulauan",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946173,
+    "Nama_Operator":"A RAHMAN ABDULLAH",
+    "No_Operator":"82343148308",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Soasio",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.022",
+    "1":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.9901,-8.34209 ]
+    },
+    "properties": {
+    "No":133,
+    "Title":"0161LRTK02",
+    "Nama_Stasiun":"Larantuka",
+    "PIC":"Heru",
+    "Thn_Bangun":"",
+    "Desa":"Postoh",
+    "Kecamatan":"Larantuka",
+    "Kab_Kota":"Flores Timur",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946249,
+    "Nama_Operator":"Rusli Yadi",
+    "No_Operator":"85253375002",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Larantuka",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.024",
+    "1":"#N/A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.0236,-7.72652 ]
+    },
+    "properties": {
+    "No":134,
+    "Title":"0163CILI01",
+    "Nama_Stasiun":"Cilacap UHSLC",
+    "PIC":"Irpan",
+    "Thn_Bangun":"",
+    "Desa":"Cilacap",
+    "Kecamatan":"Cilacap Selatan",
+    "Kab_Kota":"Cilacap",
+    "Provinsi":"Jawa Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Float (SE200)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Built in",
+    "No_SIM":8118946074,
+    "Nama_Operator":"Dandy Astiyagus",
+    "No_Operator":"85700620095",
+    "Pengelola_Dermaga":"KKP - PP Samudera Cilacap",
+    "Status":"UHSLC",
+    "Zonasi":"6445.CCI.026",
+    "1":"2020--2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.51276,-5.93575 ]
+    },
+    "properties": {
+    "No":135,
+    "Title":"0164SBSI01",
+    "Nama_Stasiun":"P. Sebesi",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2019",
+    "Desa":"P. Sebesi",
+    "Kecamatan":"Rajabasa",
+    "Kab_Kota":"Lampung Selatan",
+    "Provinsi":"Lampung",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (VEGA)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946162,
+    "Nama_Operator":"Mastari",
+    "No_Operator":"81278476830",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas IV Bakauheni",
+    "Status":"BIG",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.80988,3.72032 ]
+    },
+    "properties": {
+    "No":136,
+    "Title":"0168SUSO01",
+    "Nama_Stasiun":"Susoh",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Padangbaru",
+    "Kecamatan":"Susoh",
+    "Kab_Kota":"Aceh Barat Daya",
+    "Provinsi":"Nangroe Aceh Darussalam",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094822,
+    "Nama_Operator":"Wahyudi Purnomo",
+    "No_Operator":"82161268102",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Susoh",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.39789,2.00501 ]
+    },
+    "properties": {
+    "No":137,
+    "Title":"0169BRUS01",
+    "Nama_Stasiun":"Barus",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Pasar Batu Gerigis",
+    "Kecamatan":"Barus",
+    "Kab_Kota":"Tapanuli Tengah",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094805,
+    "Nama_Operator":"Hendra Hakiki Pohan",
+    "No_Operator":"82276215466",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Barus",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.41194,0.94222 ]
+    },
+    "properties": {
+    "No":138,
+    "Title":"0170SIRO01",
+    "Nama_Stasiun":"Sirombu",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Sirombu",
+    "Kecamatan":"Sirombu",
+    "Kab_Kota":"Nias Barat",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094821,
+    "Nama_Operator":"Syafrizal Tanjung",
+    "No_Operator":"81361394898",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Sirombu",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.11861,0.36472 ]
+    },
+    "properties": {
+    "No":139,
+    "Title":"0171PBKT01",
+    "Nama_Stasiun":"Batahan",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Kuala Batahan",
+    "Kecamatan":"Batahan",
+    "Kab_Kota":"Mandailing Natal",
+    "Provinsi":"Sumatera Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094820,
+    "Nama_Operator":"Julfani",
+    "No_Operator":"81396687076",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Batahan",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.73133,-2.18632 ]
+    },
+    "properties": {
+    "No":140,
+    "Title":"0172SBAN01",
+    "Nama_Stasiun":"Siuban",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Siuban ",
+    "Kecamatan":"Sipora Selatan",
+    "Kab_Kota":"Kep. Mentawai",
+    "Provinsi":"Sumatera Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094823,
+    "Nama_Operator":"Ahmad",
+    "No_Operator":"81371316228",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Siuban",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.011",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.74623,-0.66575 ]
+    },
+    "properties": {
+    "No":141,
+    "Title":"0173DGLA02",
+    "Nama_Stasiun":"Donggala",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Boya",
+    "Kecamatan":"Banawa",
+    "Kab_Kota":"Donggala",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094803,
+    "Nama_Operator":"Muhammad Nur",
+    "No_Operator":"82189765125",
+    "Pengelola_Dermaga":"DITJEN HUBLA - KSOP Kelas II Teluk Palu",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.39406,-1.13605 ]
+    },
+    "properties": {
+    "No":142,
+    "Title":"0174PSKY02",
+    "Nama_Stasiun":"Pasangkayu",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Pangiang ",
+    "Kecamatan":"Bambalamotu",
+    "Kab_Kota":"Pasangkayu",
+    "Provinsi":"Sulawesi Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094804,
+    "Nama_Operator":"Sunarto",
+    "No_Operator":"82289006942",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Belang-belang",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.95483,1.045 ]
+    },
+    "properties": {
+    "No":143,
+    "Title":"0175PLLH02",
+    "Nama_Stasiun":"Paleleh",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Paleleh",
+    "Kecamatan":"Paleleh",
+    "Kab_Kota":"Buol",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094809,
+    "Nama_Operator":"Deni Samudara",
+    "No_Operator":"85394235711",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Leok",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.10472,0.74111 ]
+    },
+    "properties": {
+    "No":144,
+    "Title":"0176OGMS02",
+    "Nama_Stasiun":"Ogoamas",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Ogoamas II",
+    "Kecamatan":"Sojol Utara",
+    "Kab_Kota":"Donggala",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094808,
+    "Nama_Operator":"Muhammad Amin",
+    "No_Operator":"82290047567",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Ogoamas",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.18586,0.90747 ]
+    },
+    "properties": {
+    "No":145,
+    "Title":"0177TSDP02",
+    "Nama_Stasiun":"Tanjung Sidupa",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2019",
+    "Desa":"Tuntung",
+    "Kecamatan":"Pinogaluman",
+    "Kab_Kota":"Bolaang Mongondow Utara",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094801,
+    "Nama_Operator":"Kadri Dungga",
+    "No_Operator":"85241362474",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Kwandang",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.93422,0.85411 ]
+    },
+    "properties": {
+    "No":146,
+    "Title":"0178LBKI02",
+    "Nama_Stasiun":"Labuan Uki",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Labuhan Uki",
+    "Kecamatan":"Lolak",
+    "Kab_Kota":"Bolaang Mongondow ",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094800,
+    "Nama_Operator":"Briefly Calvin O.",
+    "No_Operator":"85342794030",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Labuan Uki",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.01383,1.69322 ]
+    },
+    "properties": {
+    "No":147,
+    "Title":"0179LKPG02",
+    "Nama_Stasiun":"Likupang",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Minahasa Utara",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094802,
+    "Nama_Operator":"Jimy Willy P",
+    "No_Operator":"81335479879",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Likupang",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.73227,-3.85115 ]
+    },
+    "properties": {
+    "No":148,
+    "Title":"0180NMRL03",
+    "Nama_Stasiun":"Namrole",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Labuang",
+    "Kecamatan":"Namrole",
+    "Kab_Kota":"Buru Selatan",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094795,
+    "Nama_Operator":"Yelika E. Makatita",
+    "No_Operator":"81343139788",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Namrole",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.65523,-1.34187 ]
+    },
+    "properties": {
+    "No":149,
+    "Title":"0181LWUI03",
+    "Nama_Stasiun":"Laiwui",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Jikotamo",
+    "Kecamatan":"Obi",
+    "Kab_Kota":"Halmahera Selatan",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094797,
+    "Nama_Operator":"Dedy Puran",
+    "No_Operator":"82120550985",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Laiwui",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.17956,-3.06704 ]
+    },
+    "properties": {
+    "No":150,
+    "Title":"0182PIRU03",
+    "Nama_Stasiun":"Piru",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Seram Bagian Barat",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094806,
+    "Nama_Operator":"Dominggus Salamony",
+    "No_Operator":"82398819382",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Kairatu",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.92085,-3.33845 ]
+    },
+    "properties": {
+    "No":151,
+    "Title":"0183AMHI03",
+    "Nama_Stasiun":"Amahai",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Maluku Tengah",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094807,
+    "Nama_Operator":"Irvan Hartando",
+    "No_Operator":"82116542653",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Amahai",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.54163,-3.37653 ]
+    },
+    "properties": {
+    "No":152,
+    "Title":"0184THRU03",
+    "Nama_Stasiun":"Tehoru",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Maluku Tengah",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094796,
+    "Nama_Operator":"Richard S. Pelietimu",
+    "No_Operator":"82248661779",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Amahai",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.71372,-7.15319 ]
+    },
+    "properties": {
+    "No":153,
+    "Title":"0186LRAT03",
+    "Nama_Stasiun":"Larat",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Larat",
+    "Kecamatan":"Tanimbar Utara",
+    "Kab_Kota":"Kepulauan Tanimbar",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094799,
+    "Nama_Operator":"Fredik Sabono",
+    "No_Operator":"81232762232",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Saumlaki",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.65861,-7.50392 ]
+    },
+    "properties": {
+    "No":154,
+    "Title":"0187TTKB03",
+    "Nama_Stasiun":"Tutukembong",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Tutukembong",
+    "Kecamatan":"Tanimbar Tengah",
+    "Kab_Kota":"Kepulauan Tanimbar",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8119094798,
+    "Nama_Operator":"Jopy Niwunifaat",
+    "No_Operator":"82399764413",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Saumlaki",
+    "Status":"BIG (InaTEWS 2019)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.12416,-3.76147 ]
+    },
+    "properties": {
+    "No":155,
+    "Title":"0188PERI03",
+    "Nama_Stasiun":"Pel. Eri",
+    "PIC":"David",
+    "Thn_Bangun":"2019",
+    "Desa":"Eri",
+    "Kecamatan":"Nusaniwe",
+    "Kab_Kota":"Ambon",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"MOXA",
+    "No_SIM":8118946270,
+    "Nama_Operator":"Saul Wolter Daniel",
+    "No_Operator":"85243678268",
+    "Pengelola_Dermaga":"Dinas Kelautan dan Perikanan Kota Ambon - PPI Eri",
+    "Status":"BIG (InaTEWS 2019 tambahan)",
+    "Zonasi":"6445.CCI.022",
+    "1":"-2019-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.88169,0.334 ]
+    },
+    "properties": {
+    "No":156,
+    "Title":"0189WEDA03",
+    "Nama_Stasiun":"Weda",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2020",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Halmahera Tengah",
+    "Provinsi":"Maluku  Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542774,
+    "Nama_Operator":"Refin Glory Tuny",
+    "No_Operator":"82188653292",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Weda",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.58403,-3.23002 ]
+    },
+    "properties": {
+    "No":157,
+    "Title":"0190NBRE03",
+    "Nama_Stasiun":"Nabire",
+    "PIC":"Heru",
+    "Thn_Bangun":"2020",
+    "Desa":"Samabusa",
+    "Kecamatan":"Teluk Kimi",
+    "Kab_Kota":"Nabire",
+    "Provinsi":"Papua",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542775,
+    "Nama_Operator":"Wellem Domingus Y",
+    "No_Operator":"85280549486",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Nabire",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.025",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.27806,0.42847 ]
+    },
+    "properties": {
+    "No":158,
+    "Title":"0191TRSK02",
+    "Nama_Stasiun":"Torosik",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2020",
+    "Desa":"Torosik",
+    "Kecamatan":"Pinolosian Tengah",
+    "Kab_Kota":"Bolaang Mongondow Selatan",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542776,
+    "Nama_Operator":"Sahril Mokoagow",
+    "No_Operator":"85145911974",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Kotabunan",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.23835,-5.75684 ]
+    },
+    "properties": {
+    "No":159,
+    "Title":"0192DOBO03",
+    "Nama_Stasiun":"Dobo",
+    "PIC":"Arif",
+    "Thn_Bangun":"2020",
+    "Desa":"Dobo",
+    "Kecamatan":"Pulau-pulau Aru",
+    "Kab_Kota":"Kepulauan Aru",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542778,
+    "Nama_Operator":"Yunus Alexander Alyona",
+    "No_Operator":"82296480985",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Dobo",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.51505,-2.79294 ]
+    },
+    "properties": {
+    "No":160,
+    "Title":"0193WHAI03",
+    "Nama_Stasiun":"Wahai",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2020",
+    "Desa":"Wahai",
+    "Kecamatan":"Seram Utara",
+    "Kab_Kota":"Maluku Tengah",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542779,
+    "Nama_Operator":"Fikran Sabban",
+    "No_Operator":"62 812-4026-7245",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Bula",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.49836,-1.59 ]
+    },
+    "properties": {
+    "No":161,
+    "Title":"0194BGAI02",
+    "Nama_Stasiun":"Banggai",
+    "PIC":"David",
+    "Thn_Bangun":"2020",
+    "Desa":"Lompio",
+    "Kecamatan":"Banggai",
+    "Kab_Kota":"Banggai Laut",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542780,
+    "Nama_Operator":"Supriyadi Jusuf",
+    "No_Operator":"81341036325",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Banggai",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.021",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.66252,-8.16845 ]
+    },
+    "properties": {
+    "No":162,
+    "Title":"0195SWRU03",
+    "Nama_Stasiun":"Serwaru",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2020",
+    "Desa":"Tomra",
+    "Kecamatan":"Letti",
+    "Kab_Kota":"Maluku Barat Daya",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Radar (KRG)",
+    "Tipe_Sensor_2":"Radar (KRG)",
+    "Tipe_Sensor_3":"Tidak ada",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542781,
+    "Nama_Operator":"Debi Anggreiny Tahalele",
+    "No_Operator":"85244377716",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Wonreli",
+    "Status":"BIG (InaTEWS 2020)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.504,0.17925 ]
+    },
+    "properties": {
+    "No":163,
+    "Title":"0196BNTG02",
+    "Nama_Stasiun":"Bontang",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2020",
+    "Desa":"",
+    "Kecamatan":"",
+    "Kab_Kota":"Bontang",
+    "Provinsi":"Kalimantan Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542782,
+    "Nama_Operator":"0",
+    "No_Operator":"",
+    "Pengelola_Dermaga":"PT. Pupuk Kaltim Bontang",
+    "Status":"BIG (SRGN 2020)",
+    "Zonasi":"6445.CCI.020",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.876,-8.49283 ]
+    },
+    "properties": {
+    "No":164,
+    "Title":"0197LBJO02",
+    "Nama_Stasiun":"Labuan Bajo",
+    "PIC":"Any",
+    "Thn_Bangun":"2020",
+    "Desa":"Labuhan Bajo",
+    "Kecamatan":"Komodo",
+    "Kab_Kota":"Manggarai Barat",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542783,
+    "Nama_Operator":"Amiruddin Hasan Rodja",
+    "No_Operator":"8124266004",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas II Labuan Bajo",
+    "Status":"BIG (SRGN 2020)",
+    "Zonasi":"6445.CCI.024",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.483,-0.80316 ]
+    },
+    "properties": {
+    "No":165,
+    "Title":"0198KLTL01",
+    "Nama_Stasiun":"Kualatungkal",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2020",
+    "Desa":"Tungkal I",
+    "Kecamatan":"Tungkal Ilir",
+    "Kab_Kota":"Tanjung Jabung Barat",
+    "Provinsi":"Jambi",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":8118946142,
+    "Nama_Operator":"Aripin, ST",
+    "No_Operator":"8121584313",
+    "Pengelola_Dermaga":"ASDP kuala tungkal",
+    "Status":"BIG (SRGN 2020)",
+    "Zonasi":"6445.CCI.011",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.1465,-8.08008 ]
+    },
+    "properties": {
+    "No":166,
+    "Title":"0199KSAR03",
+    "Nama_Stasiun":"Kisar",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2020",
+    "Desa":"Wonreli",
+    "Kecamatan":"Pulau Pulau Terselatan",
+    "Kab_Kota":"Maluku Barat Daya",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119542785,
+    "Nama_Operator":"Tomson Soplera",
+    "No_Operator":"82111704044",
+    "Pengelola_Dermaga":"DITJEN HUBLA - UPP Kelas III Wonreli Maluku",
+    "Status":"BIG (SRGN 2020)",
+    "Zonasi":"6445.CCI.022",
+    "1":"2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.21569,-7.71494 ]
+    },
+    "properties": {
+    "No":167,
+    "Title":"0200PBLG01",
+    "Nama_Stasiun":"Probolinggo",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2021",
+    "Desa":"Mayangan",
+    "Kecamatan":"Mayangan",
+    "Kab_Kota":"Probolinggo",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327924,
+    "Nama_Operator":"Zippo Iqbal Alfarizy",
+    "No_Operator":"85330802829",
+    "Pengelola_Dermaga":"PT DABN, Probolinggo, Jawa Timur",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.026",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.36848,-6.86445 ]
+    },
+    "properties": {
+    "No":168,
+    "Title":"0201LMGN01",
+    "Nama_Stasiun":"Lamongan",
+    "PIC":"Ruli",
+    "Thn_Bangun":"2021",
+    "Desa":"Tanggul",
+    "Kecamatan":"Paciran",
+    "Kab_Kota":"Lamongan",
+    "Provinsi":"Jawa Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327925,
+    "Nama_Operator":"Edo Yulian Herman",
+    "No_Operator":"85850179487",
+    "Pengelola_Dermaga":"UPT Pelabuhan Pengumpan Lamongan, Jawa Timur",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.026",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7495,-8.8948 ]
+    },
+    "properties": {
+    "No":169,
+    "Title":"0202BNTE02",
+    "Nama_Stasiun":"Benete",
+    "PIC":"Any",
+    "Thn_Bangun":"2021",
+    "Desa":"Benete",
+    "Kecamatan":"Maluk",
+    "Kab_Kota":"Sumbawa Barat",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327926,
+    "Nama_Operator":"Salahuddin",
+    "No_Operator":"81353406933",
+    "Pengelola_Dermaga":"UPP Kelas II Benete, Nusa Tenggara Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.09906,-8.39239 ]
+    },
+    "properties": {
+    "No":170,
+    "Title":"0203PMNG02",
+    "Nama_Stasiun":"Pemenang",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2021",
+    "Desa":"Pemenang Barat",
+    "Kecamatan":"Pemenang",
+    "Kab_Kota":"Lombok Utara",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327927,
+    "Nama_Operator":"Lalu sukriadi",
+    "No_Operator":"81917086712",
+    "Pengelola_Dermaga":"UPP Kelas II Pemenang, Nusa Tenggara Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.39944,-8.88361 ]
+    },
+    "properties": {
+    "No":171,
+    "Title":"0204TLAW02",
+    "Nama_Stasiun":"Teluk Awang",
+    "PIC":"Any",
+    "Thn_Bangun":"2021",
+    "Desa":"Mertak",
+    "Kecamatan":"Pujut",
+    "Kab_Kota":"Lombok Tengah",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327928,
+    "Nama_Operator":"Roy Paboy Saputra",
+    "No_Operator":"081775724743/087821925640",
+    "Pengelola_Dermaga":"Pelabuhan perikanan Teluk Awang, KKP, Nusa Tenggara Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.70928,-8.21415 ]
+    },
+    "properties": {
+    "No":172,
+    "Title":"0205CLBI02",
+    "Nama_Stasiun":"Calabai",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2021",
+    "Desa":"Kandai Dua",
+    "Kecamatan":"Woja",
+    "Kab_Kota":"Dompu",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327929,
+    "Nama_Operator":"Abdullah",
+    "No_Operator":"85333231164",
+    "Pengelola_Dermaga":"KUPP Calabai, Kandai Dua, Woja, Kabupaten Dompu, Nusa Tenggara Bar. 84261",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.71435,-8.44409 ]
+    },
+    "properties": {
+    "No":173,
+    "Title":"0206BIMA02",
+    "Nama_Stasiun":"Bima",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2021",
+    "Desa":"Tanjung",
+    "Kecamatan":"Punda",
+    "Kab_Kota":"Bima",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327930,
+    "Nama_Operator":"Jamaluddin",
+    "No_Operator":"8123702265",
+    "Pengelola_Dermaga":"KSOP Bima, Jl. RE Martadinata, Tanjung, Bima, Nusa Tenggara Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.81766,-8.71299 ]
+    },
+    "properties": {
+    "No":174,
+    "Title":"0207WWRD02",
+    "Nama_Stasiun":"Waworada",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2021",
+    "Desa":"Waworada",
+    "Kecamatan":"Langgudu",
+    "Kab_Kota":"Bima",
+    "Provinsi":"Nusa Tenggara Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327931,
+    "Nama_Operator":"Ibrahim",
+    "No_Operator":"6.29E+12",
+    "Pengelola_Dermaga":"Pelabuhan Waworada, Jl Pelabuhan, Karumbu, Langgudu, Bima, Nusa Tenggara Bar. 84181",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.44877,-8.53627 ]
+    },
+    "properties": {
+    "No":175,
+    "Title":"0208WLDN02",
+    "Nama_Stasiun":"Wulandoni",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Wulandoni",
+    "Kecamatan":"Wulandoni",
+    "Kab_Kota":"Lembata",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327932,
+    "Nama_Operator":"Antonius Laba Pati",
+    "No_Operator":"81366701507",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.6106,-8.82666 ]
+    },
+    "properties": {
+    "No":176,
+    "Title":"0209BORG02",
+    "Nama_Stasiun":"Borong",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Rana Loba",
+    "Kecamatan":"Borong",
+    "Kab_Kota":"Manggarai Timur",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327933,
+    "Nama_Operator":"Yanto",
+    "No_Operator":"81237744100",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.32848,-8.5146 ]
+    },
+    "properties": {
+    "No":177,
+    "Title":"0210MPKT02",
+    "Nama_Stasiun":"Marapokot",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2021",
+    "Desa":"Marapokot",
+    "Kecamatan":"Aesesa",
+    "Kab_Kota":"Negekeo",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327934,
+    "Nama_Operator":"Nur Jannah",
+    "No_Operator":"81356419167",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.13989,-8.89856 ]
+    },
+    "properties": {
+    "No":178,
+    "Title":"0211MMBW02",
+    "Nama_Stasiun":"Maumbawa",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Aewoe",
+    "Kecamatan":"Maunponggo",
+    "Kab_Kota":"Nagakeo",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327935,
+    "Nama_Operator":"Bustanil Arifin",
+    "No_Operator":"81237055359",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.12842,-8.28553 ]
+    },
+    "properties": {
+    "No":179,
+    "Title":"0212MRTG02",
+    "Nama_Stasiun":"Maritaing",
+    "PIC":"Irpan",
+    "Thn_Bangun":"2021",
+    "Desa":"Maritaing",
+    "Kecamatan":"Alor Timur",
+    "Kab_Kota":"Alor",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327936,
+    "Nama_Operator":"Melanton Saiputa",
+    "No_Operator":"81236890252",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.86147,-8.99739 ]
+    },
+    "properties": {
+    "No":180,
+    "Title":"0213ATPP02",
+    "Nama_Stasiun":"Atapupu",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Jenilu",
+    "Kecamatan":"Kakuluk Mesak",
+    "Kab_Kota":"Belu",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327937,
+    "Nama_Operator":"Yerus IR Nomleni",
+    "No_Operator":"81354128459",
+    "Pengelola_Dermaga":"KUPP Kelas II Atapupu Jl. Pelabuhan No.1 Atapupu Kab.Belu Nusa Tenggara Timur ",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.83689,-10.489 ]
+    },
+    "properties": {
+    "No":181,
+    "Title":"0214SEBA02",
+    "Nama_Stasiun":"Seba",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2021",
+    "Desa":"Mebba",
+    "Kecamatan":"Sabu Barat",
+    "Kab_Kota":"Sabu Raijua",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327938,
+    "Nama_Operator":"Hermanus Kanisius Suban ",
+    "No_Operator":"81236188359",
+    "Pengelola_Dermaga":"KUPP Kelas II Seba      Jl. Pelabuhan No.1 Kec. Sabu Barat Kab. Sabu Raijua, Provinsi  Nusa Tenggara Timur ",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.81406,-9.49761 ]
+    },
+    "properties": {
+    "No":182,
+    "Title":"0215NKLU02",
+    "Nama_Stasiun":"Naikliu",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2021",
+    "Desa":"Afoan",
+    "Kecamatan":"Amfoang Utara",
+    "Kab_Kota":"Kupang",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327939,
+    "Nama_Operator":"Obi Mesak Imanuel Besituba ",
+    "No_Operator":"81339872389",
+    "Pengelola_Dermaga":"KUPP Kelas III Naikliu      Jl. Pelabuhan No.1 Kec. Amfoang Utara Kab. Kupang, Provinsi  Nusa Tenggara Timur ",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.56969,-10.24131 ]
+    },
+    "properties": {
+    "No":183,
+    "Title":"0216BAIN02",
+    "Nama_Stasiun":"Baing",
+    "PIC":"Syarif",
+    "Thn_Bangun":"2021",
+    "Desa":"Hadakamali",
+    "Kecamatan":"Wulla Waijilu",
+    "Kab_Kota":"Sumba Timur",
+    "Provinsi":"Nusa Tenggara Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327940,
+    "Nama_Operator":"Mikaela Maria Kewuta ",
+    "No_Operator":"081239780682/081337109147",
+    "Pengelola_Dermaga":"KSOP Waingapu          Jl. Nangamesi No.11 Wangga, Kambera, Hambala Kota Waingapu Kabupaten Sumba Timur Nusa Tenggara Timur",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.024",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.41592,2.73236 ]
+    },
+    "properties": {
+    "No":184,
+    "Title":"0217ULSU02",
+    "Nama_Stasiun":"Ulu Siau",
+    "PIC":"Rizqie",
+    "Thn_Bangun":"2021",
+    "Desa":"Tatahadeng",
+    "Kecamatan":"Siau Timur",
+    "Kab_Kota":"Sitaro",
+    "Provinsi":"Sulawesi Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327941,
+    "Nama_Operator":"Novrial Barakati",
+    "No_Operator":"82189230215",
+    "Pengelola_Dermaga":"KUPP Kelas III Ulu SIau, Jl. Pelabuhan Kel. Tatahadeng, Kec. Siau Timur, Kabupaten Sitaro Provinsi Sulawesi Utara",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.97377,-2.54071 ]
+    },
+    "properties": {
+    "No":185,
+    "Title":"0218BGKU02",
+    "Nama_Stasiun":"Bungku",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Marsaoleh",
+    "Kecamatan":"Bungku Tengah",
+    "Kab_Kota":"Morowali",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327942,
+    "Nama_Operator":"Irfan Hululo",
+    "No_Operator":"82348828889",
+    "Pengelola_Dermaga":"Pel. Wilker Bungku, KUPP Klass III Kolonodale, Jl. Abd. Rabie no. 14, RT 8 RW 3, Bungku Tengah, Sulawesi Tengah 94973",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.75506,-1.37997 ]
+    },
+    "properties": {
+    "No":186,
+    "Title":"0219POSO02",
+    "Nama_Stasiun":"Poso",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Bonesompe",
+    "Kecamatan":"Poso Kota utara",
+    "Kab_Kota":"Poso Kota",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327943,
+    "Nama_Operator":"Mawardi Darise, SH",
+    "No_Operator":"8114548188",
+    "Pengelola_Dermaga":"KUPP Klass III Poso, Jl. Pattimura No. 3, Bone Sompe, Poso Kota Utara, Poso, Sulawesi Tengah",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.62973,-1.21006 ]
+    },
+    "properties": {
+    "No":187,
+    "Title":"0220TGKG02",
+    "Nama_Stasiun":"Tangkiang",
+    "PIC":"Ghani",
+    "Thn_Bangun":"2021",
+    "Desa":"Tangkiang",
+    "Kecamatan":"Kintom",
+    "Kab_Kota":"Banggai",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327944,
+    "Nama_Operator":"Bajurik Ibrahim",
+    "No_Operator":"82395008724",
+    "Pengelola_Dermaga":"Pelabuhan Wilker Tangkiang, KUPP Klass II Luwuk, Jl. Trans Toili, Pelabuhan Wilker Tangkiang",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34162,-1.9885 ]
+    },
+    "properties": {
+    "No":188,
+    "Title":"0221KLDL02",
+    "Nama_Stasiun":"Kolonedale",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Ganda - Ganda",
+    "Kecamatan":"Petasia",
+    "Kab_Kota":"Morowali Utara",
+    "Provinsi":"Sulawesi Tengah",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327945,
+    "Nama_Operator":"Alawa Batewa",
+    "No_Operator":"82253251163",
+    "Pengelola_Dermaga":"KUPP Klass III Kolonodale, Jl. Pelabuhan no. 1, Kelurahan Kolonodale, Kec. Petasia, Morowali Utara, Sulawesi Tengah",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.42753,-3.67725 ]
+    },
+    "properties": {
+    "No":189,
+    "Title":"0222SIWA02",
+    "Nama_Stasiun":"Siwa",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Pitumpanua",
+    "Kecamatan":"Pitumpanua",
+    "Kab_Kota":"Wajo",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327946,
+    "Nama_Operator":"Muhammad Asri",
+    "No_Operator":"81342260907",
+    "Pengelola_Dermaga":"KUPP Klas III Siwa Jl Pelabuhan Bangsale",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.61272,-7.06044 ]
+    },
+    "properties": {
+    "No":190,
+    "Title":"0223JMPE02",
+    "Nama_Stasiun":"Jampea",
+    "PIC":"Heru",
+    "Thn_Bangun":"2021",
+    "Desa":"Kembang Ragi",
+    "Kecamatan":"Pasimasungu",
+    "Kab_Kota":"Kepulauan Selayar",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327947,
+    "Nama_Operator":"Putra Dwi Astaman",
+    "No_Operator":"82343313123",
+    "Pengelola_Dermaga":"Jalan Pelabuhan No.1 Desa Kembang Ragi/ Kec. Pasimasunggu P.Jampea",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.43556,-4.74947 ]
+    },
+    "properties": {
+    "No":191,
+    "Title":"0224SBTG02",
+    "Nama_Stasiun":"P. Sabutung",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Mattino Kanja",
+    "Kecamatan":"Liukang Tuppabiring Utara",
+    "Kab_Kota":"Pangkajene dan Kepulauan",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327948,
+    "Nama_Operator":"Ansyar J",
+    "No_Operator":"85298051955",
+    "Pengelola_Dermaga":"P.Sabutung /KUPP Klas II Maccini Baji Desa Matiro Kanja Kec.Liukang",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.45361,-6.12025 ]
+    },
+    "properties": {
+    "No":192,
+    "Title":"0225SLYR02",
+    "Nama_Stasiun":"Selayar",
+    "PIC":"Heru",
+    "Thn_Bangun":"2021",
+    "Desa":"Benteng Selayar",
+    "Kecamatan":"Benteng",
+    "Kab_Kota":"Kepulauan Selayar",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327949,
+    "Nama_Operator":"Hasbullah",
+    "No_Operator":"81242114360",
+    "Pengelola_Dermaga":"KUPP klas III Selayar. Kel. Benteng / P.Selayar",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.94758,-3.55889 ]
+    },
+    "properties": {
+    "No":193,
+    "Title":"0226MJNE02",
+    "Nama_Stasiun":"Majene",
+    "PIC":"Adnan",
+    "Thn_Bangun":"2021",
+    "Desa":"Totoli",
+    "Kecamatan":"Banggae",
+    "Kab_Kota":"Majene",
+    "Provinsi":"Sulawesi Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327950,
+    "Nama_Operator":"Mahyudin",
+    "No_Operator":"81343632007",
+    "Pengelola_Dermaga":"KUPP Klas III Majene Sulawesi Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.12781,-2.47481 ]
+    },
+    "properties": {
+    "No":194,
+    "Title":"0227BLNG02",
+    "Nama_Stasiun":"Belang-Belang",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Kabuloang",
+    "Kecamatan":"Kalukku",
+    "Kab_Kota":"Mamuju",
+    "Provinsi":"Sulawesi Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327951,
+    "Nama_Operator":"ABD Rahman K",
+    "No_Operator":"85299181511",
+    "Pengelola_Dermaga":"KUPP Klas III Belang belang, jalan Pelabuhan Samudra",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.06583,-4.77109 ]
+    },
+    "properties": {
+    "No":195,
+    "Title":"0228KSPT02",
+    "Nama_Stasiun":"Kasipute",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Kasipute",
+    "Kecamatan":"Rumbia",
+    "Kab_Kota":"Bombana",
+    "Provinsi":"Sulawesi Tenggara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327952,
+    "Nama_Operator":"Rusdar",
+    "No_Operator":"82193016001",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.04089,-2.77538 ]
+    },
+    "properties": {
+    "No":196,
+    "Title":"0229LMPA02",
+    "Nama_Stasiun":"Lampia",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2021",
+    "Desa":"Batu Putih",
+    "Kecamatan":"Batu Putih",
+    "Kab_Kota":"Kolaka Utara",
+    "Provinsi":"Sulawesi Selatan",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327953,
+    "Nama_Operator":"Udin Lamusu",
+    "No_Operator":"82349838909",
+    "Pengelola_Dermaga":"",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.77601,-5.51362 ]
+    },
+    "properties": {
+    "No":197,
+    "Title":"0230KLDP02",
+    "Nama_Stasiun":"Kaledupa",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Buranga",
+    "Kecamatan":"Kaledupa",
+    "Kab_Kota":"Wakatobi",
+    "Provinsi":"Sulawesi Tenggara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327954,
+    "Nama_Operator":"La Ode Hikmat",
+    "No_Operator":"82211275378",
+    "Pengelola_Dermaga":"KUPP Wanci Wilker Kaledupa, Pulau Kaledupa, Wakatobi, Sulawesi Tenggara",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.021",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.61294,0.47236 ]
+    },
+    "properties": {
+    "No":198,
+    "Title":"0231SGTA02",
+    "Nama_Stasiun":"Sangatta",
+    "PIC":"Eki",
+    "Thn_Bangun":"2021",
+    "Desa":"Dermaga Baru",
+    "Kecamatan":"Sangatta Utara",
+    "Kab_Kota":"Kutai Timur",
+    "Provinsi":"Kalimantan Timur",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327955,
+    "Nama_Operator":"Maryanti Rahayuningsih, A.Md",
+    "No_Operator":"81391080350",
+    "Pengelola_Dermaga":"KUPP Kelas II Sangatta     Jl. Pelabuhan No 6 - Masabang Sangatta Selatan 75611 Kutai Timur - Kallimantan Timur ",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.020",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.60431,-0.62658 ]
+    },
+    "properties": {
+    "No":199,
+    "Title":"0232BBNG03",
+    "Nama_Stasiun":"Babang",
+    "PIC":"Ridho",
+    "Thn_Bangun":"2021",
+    "Desa":"Babang",
+    "Kecamatan":"Bacan Timur",
+    "Kab_Kota":"Halmahera Selatan",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327956,
+    "Nama_Operator":"Fadel Karim",
+    "No_Operator":"82260971285",
+    "Pengelola_Dermaga":"KUPP Kelas II Babang, Babang, Bacan Tim., Kabupaten Halmahera Selatan, Maluku Utara",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.62239,0.39094 ]
+    },
+    "properties": {
+    "No":200,
+    "Title":"0233GITA03",
+    "Nama_Stasiun":"Gita",
+    "PIC":"Sofie",
+    "Thn_Bangun":"2021",
+    "Desa":"Gita Raja",
+    "Kecamatan":"Oba",
+    "Kab_Kota":"Tidore Kepulauan",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327957,
+    "Nama_Operator":"AZiS Jalal",
+    "No_Operator":"85242299311",
+    "Pengelola_Dermaga":"UPP Tidore Wilker Gita, Kota Tidore Kepulauan, Maluku Utara",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.58069,1.67461 ]
+    },
+    "properties": {
+    "No":201,
+    "Title":"0234KEDI03",
+    "Nama_Stasiun":"Kedi",
+    "PIC":"David",
+    "Thn_Bangun":"2021",
+    "Desa":"Soa - Sio",
+    "Kecamatan":"Loloda",
+    "Kab_Kota":"Halmahera Barat",
+    "Provinsi":"Maluku Utara",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327958,
+    "Nama_Operator":"Hendra Pakka geraki",
+    "No_Operator":"85341069201",
+    "Pengelola_Dermaga":"UPP Jailolo Wilker Kedi, Kabupaten Halmahera Barat, Maluku Utara",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.87706,-8.11925 ]
+    },
+    "properties": {
+    "No":202,
+    "Title":"0235MRSL03",
+    "Nama_Stasiun":"Marsela",
+    "PIC":"David",
+    "Thn_Bangun":"2021",
+    "Desa":"Latalola Besar",
+    "Kecamatan":"Pulau Marsela",
+    "Kab_Kota":"Maluku Barat daya",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327959,
+    "Nama_Operator":"Max Jhony wakole",
+    "No_Operator":"81344870251",
+    "Pengelola_Dermaga":"KUPP Saumlaki Wilker Marsela, Pulau Marsela, Maluku Barat Daya",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.32942,-3.58589 ]
+    },
+    "properties": {
+    "No":203,
+    "Title":"0236TLHU03",
+    "Nama_Stasiun":"Tulehu",
+    "PIC":"David",
+    "Thn_Bangun":"2021",
+    "Desa":"Tulehu",
+    "Kecamatan":"Salahudu",
+    "Kab_Kota":"Maluku Tengah",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327960,
+    "Nama_Operator":"Anton  Siwtiory",
+    "No_Operator":"81354022166",
+    "Pengelola_Dermaga":"KUPP Tulehu, Maluku Tengah, Maluku",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.51461,-2.83525 ]
+    },
+    "properties": {
+    "No":204,
+    "Title":"0237TNWL03",
+    "Nama_Stasiun":"Taniwel",
+    "PIC":"Herwin",
+    "Thn_Bangun":"2021",
+    "Desa":"Kasieh",
+    "Kecamatan":"Taniwel",
+    "Kab_Kota":"Seram Bagian Barat",
+    "Provinsi":"Maluku",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327961,
+    "Nama_Operator":"Frenklin Eston Panna",
+    "No_Operator":"85254235357",
+    "Pengelola_Dermaga":"UPP Piru, Wilker Taniwel, Seram Bagian Barat, Maluku",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.022",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.75905,-3.66295 ]
+    },
+    "properties": {
+    "No":205,
+    "Title":"0238KMNA03",
+    "Nama_Stasiun":"Kaimana",
+    "PIC":"Heru",
+    "Thn_Bangun":"2021",
+    "Desa":"Kaimana",
+    "Kecamatan":"Kaimana",
+    "Kab_Kota":"Kaimana",
+    "Provinsi":"Papua Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327962,
+    "Nama_Operator":"Jefri Margo Mawar",
+    "No_Operator":"81242231197",
+    "Pengelola_Dermaga":"Pelabuhan Kaimana, KUPP Klass III Kaimana, Jln. Pelabuhan Kaimana",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.025",
+    "1":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.08049,-0.5085 ]
+    },
+    "properties": {
+    "No":206,
+    "Title":"0239SSPR03",
+    "Nama_Stasiun":"Sausapor",
+    "PIC":"Heru",
+    "Thn_Bangun":"2021",
+    "Desa":"Emaos",
+    "Kecamatan":"Sausapor",
+    "Kab_Kota":"Tambrauw",
+    "Provinsi":"Papua Barat",
+    "Tipe_Sensor_1":"Pressure (CBS)",
+    "Tipe_Sensor_2":"Pressure (CBS)",
+    "Tipe_Sensor_3":"Radar (KRG)",
+    "Tipe_Modem_per_202102":"Inhand",
+    "No_SIM":81119327963,
+    "Nama_Operator":"Brice Albreto biet",
+    "No_Operator":"82197976878",
+    "Pengelola_Dermaga":"KUPP Saonek Satker Sausapor,  Emaos, Sausapor, Kab. Tambrauw, Papua Barat",
+    "Status":"BIG (InaTEWS 2021)",
+    "Zonasi":"6445.CCI.025",
+    "1":""
+    }
+  }
+]
+}
